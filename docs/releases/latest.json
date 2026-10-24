@@ -1,62 +1,67 @@
 {
   "schema": 1,
-  "version": "0.14.0",
+  "version": "0.15.0",
   "title": "The Hollow Below \u2014 Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 63088214,
-  "archiveSha256": "c121b94a25f04ee379cfec22b69c054d92bebf969795e3f9218e9e0239761483",
+  "archiveSize": 63099508,
+  "archiveSha256": "33c092a6ee895143166b8f5adcfd08293593722c91dfb5ce030a83a4d940662b",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.14.0/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-01.bin",
+      "path": "releases/0.15.0/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-01.bin",
       "size": 8388608,
-      "sha256": "45580cb8b659622c957f74188357c0794cdd7bc8da193c4359137d2a2cf69529"
+      "sha256": "82bc8efd3339c5a95443ddd469c6eb1c1eb5c4b6714efe7fa6c005c1df140f4e"
     },
     {
-      "path": "releases/0.14.0/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-02.bin",
+      "path": "releases/0.15.0/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-02.bin",
       "size": 8388608,
-      "sha256": "4e02b6b9dfbcd4a9bf20b35fdf9bc0162bc69c068acc6f58cee838c8da5c73ad"
+      "sha256": "a8179551aeaf14a0f3dd17697108098994f20b02b54e10426fc364dafc75c51c"
     },
     {
-      "path": "releases/0.14.0/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-03.bin",
+      "path": "releases/0.15.0/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-03.bin",
       "size": 8388608,
-      "sha256": "9ccbbba13fbd95e45669a4f5e87c57106607abf2c9237d0115c6562d9b93eafb"
+      "sha256": "f5deb42c60f95a6c69e823f8a46efd17d5e2ae57fce3b7edbd6e6d85fbde8f22"
     },
     {
-      "path": "releases/0.14.0/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-04.bin",
+      "path": "releases/0.15.0/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-04.bin",
       "size": 8388608,
-      "sha256": "2f2b830f818beedc3d08a0dc488517ec77d016d1c0eea7cefc4ffdf24016f451"
+      "sha256": "c79ba1f0b4e8d4c2741e79038f356f923c1fda151bf8f2d25911c3401e014b48"
     },
     {
-      "path": "releases/0.14.0/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-05.bin",
+      "path": "releases/0.15.0/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-05.bin",
       "size": 8388608,
-      "sha256": "68e6bfe293f5733b369aca65559265eb9d6a814752e6c7628bfaa8f2193fc87f"
+      "sha256": "8750ec7fa37ae8b891d3c0b67c3c4186816c765e094036a17c438d0e8d3b884d"
     },
     {
-      "path": "releases/0.14.0/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-06.bin",
+      "path": "releases/0.15.0/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-06.bin",
       "size": 8388608,
-      "sha256": "21a11849b94568cfe6fc510b5338e8f08140ea287a61d1433ef6a99abc938d5a"
+      "sha256": "70c8878508334c36131d1c819855aa06745ea2276f4c02a95847f200939cf9dc"
     },
     {
-      "path": "releases/0.14.0/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-07.bin",
+      "path": "releases/0.15.0/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-07.bin",
       "size": 8388608,
-      "sha256": "3b28ef9a48a6a44944e9f9daa986383088647914d1c33e21ead5d3d4445f6286"
+      "sha256": "53c889083d6c41c67ee0b85cd27f06e51620ad49ae536407cb864cf11d5495bc"
     },
     {
-      "path": "releases/0.14.0/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/windows-08.bin",
-      "size": 4367958,
-      "sha256": "8cc8b025341496d9d66af19ee7ab18a3939f2d0fd276bd7411b67b91a1f78cba"
+      "path": "releases/0.15.0/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/windows-08.bin",
+      "size": 4379252,
+      "sha256": "252585671f6ec359c8acc1dbfefd2b3ef94832bf43f5878f9a41d88f6d815ec4"
     }
   ],
   "notes": [
+    "Saved Fullscreen, Borderless window and Windowed modes, resolution selection, V-Sync and frame limits. Display changes require confirmation and revert after 15 seconds, on cancellation or loss of focus.",
+    "Performance, Balanced and High presets. Balanced is the default: depth-aware haze reconstruction reduces rendering work while preserving fog density, flashlight strength and hunter behavior.",
+    "Reusable corridor distance fields eliminate repeated hearing searches while stationary within a cell. Hunter routes reuse their storage; creature limb animation and HUD styles avoid repeated temporary allocations. Locker preparation reuses one corridor graph.",
+    "Distant station lights are culled, with the hunter and audio remaining active. Menus stop rendering the hidden 3D world and use 30 FPS. Unfocused play pauses and uses a 15 FPS limit. Default gameplay cap is 60 FPS; V-Sync follows monitor refresh when enabled.",
+    "Display preferences and audio/control options persist. Settings use readable text, and opaque menu backgrounds prevent stale text when changing screens.",
     "Hunter starts in the central maze, over 200 metres of corridors from entry. Opening patrol stays in that sector for Easy 75s, Normal 65s, Hard 55s and Nightmare 45s before stalking approaches begin. Rushing into its territory or triggering a breaker can still attract it.",
     "Less punishing chases: lower pursuit speeds, shorter sight and sound memory, shorter corridor leashes and longer recovery between encounters. Hearing remains central to detection on every difficulty.",
     "Real hunter screams carry long hall reverb and decaying reflections, with distant presence even behind walls. The low growl reaches farther and builds gradually as the hunter approaches, giving an advance warning before sight.",
@@ -79,7 +84,7 @@
     "Nightmare removes flashlight and sprint, leaves 12 of 84 lockers usable, and caps pursuit below walking speed. Easy adds 24 shortcuts, 150 seconds of light, longer sprint and all lockers."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.14.0/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 51226843,
-  "installerSha256": "558844f51c2c4580816ced364b45baa60470cd1164b3e825443bf60134294075"
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 51230408,
+  "installerSha256": "a60da57d6bbdd9bf5b1cd7ec85a179b56b6b6e2b3c8c991abdec35a1768ecab4"
 }
