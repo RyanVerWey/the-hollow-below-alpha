@@ -5,9 +5,9 @@ Free Windows and native Linux horror alpha. Single-player, keyboard and mouse.
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-Setup.exe)**
-- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-0.16.0-Linux-x86_64.tar.gz)**
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.16.0)
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-0.17.0-Linux-x86_64.tar.gz)**
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.17.0)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Enter the station**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -19,7 +19,7 @@ This repository contains the public website and downloadable alpha release files
 
 ## Controls
 
-WASD move, mouse look, Shift sprint, C/Ctrl crouch, F flashlight, E interact/hide, Tab objectives and instructions, M survey while staging, Escape pause. Prepare in the safe vestibule, then open the station door and cross to start the run. Restore INTAKE, FILTRATION and FLOODGATE in any order, then return to the green surface gate.
+WASD move, mouse look, Shift sprint, C/Ctrl crouch, F flashlight, E interact/hide, Tab objectives and instructions, M survey while staging or field map after breaker 1, Escape pause/resume. Prepare in the safe vestibule, then open the station door and cross to start the run. Restore INTAKE, FILTRATION and FLOODGATE in any order, then return to the green surface gate.
 
 ## Feedback
 

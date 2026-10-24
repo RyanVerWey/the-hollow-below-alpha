@@ -1,62 +1,66 @@
 {
   "schema": 1,
-  "version": "0.16.0",
+  "version": "0.17.0",
   "title": "The Hollow Below \u2014 Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 63101783,
-  "archiveSha256": "7bfbcb502483dad1b85fb3a64c7a60d4f30685ee19e099e5def697437921b725",
+  "archiveSize": 63106263,
+  "archiveSha256": "063dfa8017240f83dcae31ce23a52fb8d45a66900eda30a106906d0b1e60e58d",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.16.0/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-01.bin",
+      "path": "releases/0.17.0/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-01.bin",
       "size": 8388608,
-      "sha256": "781f097d35356b4bfd569c020b83debcc39e35b74c4492e682c5c32645a33188"
+      "sha256": "57d6dc49a05d8e85efcff991442b0cef9c977325a773f53d92f74d2de91104a5"
     },
     {
-      "path": "releases/0.16.0/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-02.bin",
+      "path": "releases/0.17.0/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-02.bin",
       "size": 8388608,
-      "sha256": "58e5ca2ef6f990d1315e27e498f5b17ab0ccee3aa556fc49dada88e3939309e4"
+      "sha256": "7a2c79dce12c718556b5bbd38f4906b9cd5acefe06a362baf80c52217beddfc8"
     },
     {
-      "path": "releases/0.16.0/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-03.bin",
+      "path": "releases/0.17.0/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-03.bin",
       "size": 8388608,
-      "sha256": "3df928c5850451dbce9bcd9df1a5dfd0cdb5f625149680a8a1ff392c192fd691"
+      "sha256": "5d521a0943f1fb3399b8b025ba15126ac8f7d377a61e143c30de8b26f73a1b55"
     },
     {
-      "path": "releases/0.16.0/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-04.bin",
+      "path": "releases/0.17.0/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-04.bin",
       "size": 8388608,
-      "sha256": "7fabcfa49975c178720f82a0f722e5e8408561ce2de75d46c319825bbc7c7440"
+      "sha256": "616da2416ca742488871a996816b167dcbb0921b27ecad34fd385332d75fdcbb"
     },
     {
-      "path": "releases/0.16.0/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-05.bin",
+      "path": "releases/0.17.0/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-05.bin",
       "size": 8388608,
-      "sha256": "64e649c1259dd9c406f7fc82d2ebd9984564e54a77e5644ea8edcdeb13019697"
+      "sha256": "b32b8affa01c7c7c507424eff64360f4334365089b925a2d5a700a71555828db"
     },
     {
-      "path": "releases/0.16.0/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-06.bin",
+      "path": "releases/0.17.0/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-06.bin",
       "size": 8388608,
-      "sha256": "985ebc0f11d21a31ca47772c84d5f238c67fecb70777bc7cd8ebe9645629080e"
+      "sha256": "6cd780e1c4df9490a129916326a0e55866412a3b9d75b087e44574b8b7c8f8f9"
     },
     {
-      "path": "releases/0.16.0/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-07.bin",
+      "path": "releases/0.17.0/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-07.bin",
       "size": 8388608,
-      "sha256": "c094374f6e0c32fd5042b8f6dad65f65d7bf1aad64b5e5b66980bf6745a9338f"
+      "sha256": "24fdbd0194a701a6e073fa7688a8b7e7f3d8a3eb73621eee3746c395748e3b18"
     },
     {
-      "path": "releases/0.16.0/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/windows-08.bin",
-      "size": 4381527,
-      "sha256": "157939f08db52163f333174fc06c0cea0f7e6d37082945a120a39f4f81b92a44"
+      "path": "releases/0.17.0/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/windows-08.bin",
+      "size": 4386007,
+      "sha256": "59a1ddc1b8d43ce38832a250b0bc4d18ee859f122d55e3fb11c912d5df70d64d"
     }
   ],
   "notes": [
+    "Blackwater has 33 percent less walkable maze: 1878 cells in a 59 by 59 footprint, retaining loops and all difficulty routes.",
+    "A safe practice breaker in the entry room demonstrates the real interaction prompt without starting a hunt or advancing objectives.",
+    "Power upgrades the field map. First breaker: M toggles the layout. Second: live player location. Third: hunter sight and current movement-noise detection footprint plus exit. Breaker positions stay hidden; opening the map does not pause the hunt.",
+    "The main menu now has a level selector: Blackwater is playable. Hedge Maze, Corn Maze and Stone Labyrinth have distinct Coming Soon tiles; their monsters, objectives and horror elements are in development.",
     "Prominent RESUME button and Escape both resume the current run without resetting breakers, time, position or equipment. Escape pauses again during gameplay or staging.",
     "Returning to title, retrying, or preparing another difficulty during an existing run shows: Warning, progress will not be saved. Explicit confirmation is required; Cancel or Escape keeps the current run.",
     "Pause remains active while viewing objectives or settings. Leaving either returns to pause before resuming.",
@@ -88,18 +92,18 @@
     "Nightmare removes flashlight and sprint, leaves 12 of 84 lockers usable, and caps pursuit below walking speed. Easy adds 24 shortcuts, 150 seconds of light, longer sprint and all lockers."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 51230969,
-  "installerSha256": "b881be87b93832ca4260d4a555c64c657c9b30405c7824f57abb51bb228e2c34",
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 51234351,
+  "installerSha256": "9e34296b834cb7c1bde0dd70360ab2f0896b53c30a8d889e6d7de18ea348d9f8",
   "linux": {
-    "version": "0.16.0",
+    "version": "0.17.0",
     "architecture": "x86_64",
-    "filename": "The-Hollow-Below-Alpha-0.16.0-Linux-x86_64.tar.gz",
-    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-0.16.0-Linux-x86_64.tar.gz",
-    "size": 60426026,
-    "sha256": "af5244ff842c6a4762a9b18784468d00e4627f40043c413073e13540d9fb41f1",
+    "filename": "The-Hollow-Below-Alpha-0.17.0-Linux-x86_64.tar.gz",
+    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-0.17.0-Linux-x86_64.tar.gz",
+    "size": 60428719,
+    "sha256": "432b52771873afdd6929cd13dac2a02482e73c900aaf553dbf1ba6f6add6ec2d",
     "executable": "The Hollow Below.x86_64",
     "executableSha256": "8027f7d1f9ae7dacfc826fb218adcc1ae7464af098a8a59397e7531c0f7ec0bc",
-    "buildDirectory": "Linux-v0.16"
+    "buildDirectory": "Linux-v0.17"
   }
 }
