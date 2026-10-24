@@ -88,14 +88,14 @@
   "installerSize": 51230408,
   "installerSha256": "a60da57d6bbdd9bf5b1cd7ec85a179b56b6b6e2b3c8c991abdec35a1768ecab4",
   "linux": {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "architecture": "x86_64",
-    "filename": "The-Hollow-Below-Alpha-0.15.0-Linux-x86_64.tar.gz",
-    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/The-Hollow-Below-Alpha-0.15.0-Linux-x86_64.tar.gz",
-    "size": 60427347,
-    "sha256": "40a772603bdcb992a9ce43cec5de1078bf1d0ff8fb6c92f23c55f02ff60900be",
+    "filename": "The-Hollow-Below-Alpha-0.15.1-Linux-x86_64.tar.gz",
+    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.1/The-Hollow-Below-Alpha-0.15.1-Linux-x86_64.tar.gz",
+    "size": 60427065,
+    "sha256": "1a5dc3e060460cf3e25bfb82dfc83a1b3ec742a7b6ddc357ed9e3d979543ecc4",
     "executable": "The Hollow Below.x86_64",
     "executableSha256": "8027f7d1f9ae7dacfc826fb218adcc1ae7464af098a8a59397e7531c0f7ec0bc",
-    "buildDirectory": "Linux-v0.15"
+    "buildDirectory": "Linux-v0.15.1"
   }
 }
