@@ -19,4 +19,9 @@ readRelease(AbortSignal.timeout(15000)).then(release=>{
   $('release-version').textContent='BUILD '+release.version;
   document.querySelector('.build-number').textContent='/ '+release.version;
   $('download-facts').textContent=`Windows 10 / 11, 64-bit · Full installer: ${(release.installerSize/1000000).toFixed(1)} MB`;
+  if(release.linux){
+    document.querySelectorAll('[data-linux-download]').forEach(link=>{link.href=release.linux.url;});
+    $('linux-release-version').textContent='BUILD '+release.linux.version;
+    $('linux-download-facts').textContent=`Linux x86_64 · Full archive: ${(release.linux.size/1000000).toFixed(1)} MB · tar.gz`;
+  }
 }).catch(()=>{ /* The native launcher handles release availability and offline play. */ });

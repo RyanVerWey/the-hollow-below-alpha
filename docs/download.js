@@ -20,7 +20,16 @@ export function validateRelease(release) {
     size += chunk.size;
   }
   if (size !== release.archiveSize) throw new Error('The release size does not match its download files.');
+  if(release.linux)validateLinuxRelease(release.linux);
   return release;
+}
+export function validateLinuxRelease(linux){
+  if(!linux||!/^\d+\.\d+\.\d+$/.test(linux.version)||linux.architecture!=='x86_64'
+    ||linux.filename!==`The-Hollow-Below-Alpha-${linux.version}-Linux-x86_64.tar.gz`
+    ||linux.url!==`https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v${linux.version}/${linux.filename}`
+    ||!Number.isSafeInteger(linux.size)||linux.size<=0||linux.size>1024*1024*1024||!hashPattern.test(linux.sha256)
+    ||linux.executable!=='The Hollow Below.x86_64'||!hashPattern.test(linux.executableSha256))throw new Error('The Linux release information is invalid.');
+  return linux;
 }
 export async function readRelease(signal) {
   const response = await fetch(new URL('releases/latest.json', import.meta.url), { signal, cache: 'no-cache', redirect: 'error' });
