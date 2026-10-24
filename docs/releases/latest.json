@@ -1,68 +1,69 @@
 {
   "schema": 1,
-  "version": "0.8.0",
+  "version": "0.9.0",
   "title": "The Hollow Below \u2014 Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 59165721,
-  "archiveSha256": "53b103006ed3bece2d361e8c01d2fe1a79da676b2bd6fe82012a135f246d214c",
+  "archiveSize": 59171536,
+  "archiveSha256": "b63167e77d176f1024f8462806de5f927ac0507f11102b6594e3741802685a07",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.8.0/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-01.bin",
+      "path": "releases/0.9.0/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-01.bin",
       "size": 8388608,
-      "sha256": "7ea9778efddf90cb178f0be624b0630d5c85d04c295d9e52db00d94af04fc9a2"
+      "sha256": "63cf15177c4f1d3f8155138e4f27c711a6e19e1ae94109f6e44c269ed2516502"
     },
     {
-      "path": "releases/0.8.0/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-02.bin",
+      "path": "releases/0.9.0/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-02.bin",
       "size": 8388608,
-      "sha256": "13149a462df480b66f37f93f536696447981c05120a46e7926d3d26952ca2ade"
+      "sha256": "4f2b4f106bd1ee6df19dcda7fc682e36d59d941721dbfc406364bb1d73fea691"
     },
     {
-      "path": "releases/0.8.0/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-03.bin",
+      "path": "releases/0.9.0/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-03.bin",
       "size": 8388608,
-      "sha256": "6dd76914f863f180096c65d5287599047ae1c60cfdd5fb2292b2cfb6961b2851"
+      "sha256": "65230755b3db91f4806090879089224f2637a58205db7396388a7282f3d6c252"
     },
     {
-      "path": "releases/0.8.0/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-04.bin",
+      "path": "releases/0.9.0/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-04.bin",
       "size": 8388608,
-      "sha256": "cc7cbbf951ca0907a06eb633e8a411f6ddc3acaa71e5b6e4b4467e6620bad99a"
+      "sha256": "7488f05ff62f0adb86fb3f89827774330608d64b0e2b0bda0602c0e00929d4b0"
     },
     {
-      "path": "releases/0.8.0/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-05.bin",
+      "path": "releases/0.9.0/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-05.bin",
       "size": 8388608,
-      "sha256": "b84fe0354a2ebf426747b01824fb63a66e16c3b7600a38a584840dc80a2efdd3"
+      "sha256": "e1050ac5285ccbff6d35a028a92535306c429d388bd5e5d4bf70b87e30d30120"
     },
     {
-      "path": "releases/0.8.0/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-06.bin",
+      "path": "releases/0.9.0/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-06.bin",
       "size": 8388608,
-      "sha256": "f8000ab95cb57cd925b4d7b0cbd7531eee56dbec7097a96f3135a942df5e969c"
+      "sha256": "85df26297ab181d0c9601c2d6cda6de2b6625eaaffbb5900adfab016256fb3f2"
     },
     {
-      "path": "releases/0.8.0/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-07.bin",
+      "path": "releases/0.9.0/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-07.bin",
       "size": 8388608,
-      "sha256": "3b9d63fd8ada5be40103053514e008e7e4a8d152f1658ee368f01d37f24a910c"
+      "sha256": "4cff7cea2a28fb80457d11f9750e93615f16c4815ffb7e2cd4bd8f64163eeffc"
     },
     {
-      "path": "releases/0.8.0/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/windows-08.bin",
-      "size": 445465,
-      "sha256": "7b96173b72525a290287a34ab8cec9b7bfc205d1ee2a78b5c28f7f7ab12e98d2"
+      "path": "releases/0.9.0/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/windows-08.bin",
+      "size": 451280,
+      "sha256": "90bd852b60d35b76f652e8dd8656c6575fe9dbc58ba0fc476d3c26c17aca7f4e"
     }
   ],
   "notes": [
-    "A 73 by 73 station with 2,803 walkable cells, 4.8 times the previous walkable area, 311 independent loops and 84 hiding lockers.",
-    "A pause-safe opening briefing, named breaker checklist, wall-mounted sector signs and TAB objectives with per-level instructions.",
-    "Monster voices carry through walls and grow with proximity; pursuit audio holds briefly after line-of-sight breaks."
+    "Start in a physical safe maintenance vestibule with objectives, survival instructions and a wall-mounted maze survey.",
+    "Six broad unconfirmed search areas for three breakers, including false leads; no exact breaker locations or live tracking.",
+    "Open the station door when ready. Crossing its threshold starts the hunter and timer, enables battery drain and seals the door behind you.",
+    "Corrected entrance sign orientation and removed mirrored text on sign backs."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.8.0/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 48099484,
-  "installerSha256": "6f6d90fe04dec387f5818cf87a31070625d377cad44f4cb6f279f71d149893b7"
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.9.0/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 48091121,
+  "installerSha256": "2d56f0098b283f12ae97d93230ed8e237bc923a3b59ac595a43eb362b5454945"
 }
