@@ -55,4 +55,19 @@ Creature sounds edited to mono for positional playback. Attack timing, gain,
 equalization, and loop crossfades prepared for this project. Score preserved
 in stereo and compressed for game delivery. Source files and exact prompts
 are retained in the project. This attribution is not a separate license grant.
-The existing recorded ambient growl retains its CC0 source credits.
+Earlier recorded creature assets retain their CC0 source credits.
+
+Alpha 0.13 foreground growl, selected from the owner's existing library:
+Low Pitch Demonic Growl
+https://suno.com/song/18b00ca4-e486-4a6d-9ead-0ec176741c37
+
+Alpha 0.13 bellow, rupture and wail phrases, selected from the owner's library:
+Low Pitch Demon Scream
+https://suno.com/song/e29cc667-2e10-4d57-bc84-c21b4e8fd933
+
+An additional rake phrase uses a previously unused section of the original
+attack scream listed above. Masters are mono, with high-quality resampling,
+gentle growl compression, controlled peaks, fades and loop crossfades.
+Source tracks were not published to the Suno feed. Edited masters are included
+in the public game. Nine downloaded files are counted against the owner's
+ten-file limit, including the automatic MP3 companions to requested WAVs.
