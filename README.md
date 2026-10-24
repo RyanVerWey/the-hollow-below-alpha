@@ -5,9 +5,9 @@ Free Windows and native Linux horror alpha. Single-player, keyboard and mouse.
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.0/The-Hollow-Below-Alpha-Setup.exe)**
-- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.15.1/The-Hollow-Below-Alpha-0.15.1-Linux-x86_64.tar.gz)**
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.15.0)
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.16.0/The-Hollow-Below-Alpha-0.16.0-Linux-x86_64.tar.gz)**
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.16.0)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Enter the station**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
