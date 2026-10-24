@@ -8,3 +8,5 @@
 
 /* Native Linux distribution */
 .hero-actions{flex-wrap:wrap}.play-heading{grid-row:1/span 2;position:sticky;top:40px;align-self:start}.linux-download{grid-column:2}.linux-download .download-description{margin-bottom:24px}@media(max-width:600px){.play-heading{grid-row:auto;position:static}.linux-download{grid-column:auto}}
+
+.briarwake{background:#111b16}.briarwake .station-intro h2 span{color:#c4ae78}.briarwake-availability{font-size:12px;letter-spacing:.1em;color:var(--paper);margin-top:24px}.briarwake .gameplay-wide img{max-height:640px;object-fit:cover}

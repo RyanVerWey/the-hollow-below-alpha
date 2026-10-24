@@ -5,11 +5,11 @@ Free Windows and native Linux horror alpha. Single-player, keyboard and mouse.
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-Setup.exe)**
-- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.17.0/The-Hollow-Below-Alpha-0.17.0-Linux-x86_64.tar.gz)**
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.17.0)
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the native Linux alpha](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/The-Hollow-Below-Alpha-0.18.0-Linux-x86_64.tar.gz)**
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.18.0)
 
-On Windows, open the installer, choose **Install**, then open the launcher and choose **Enter the station**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
+On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
 On Linux, extract the entire tar.gz archive and open **The Hollow Below.x86_64** inside. Keep the data folder and libraries together. **Play.sh** also starts the game from a terminal; **Add to applications.sh** adds an optional shortcut. Fullscreen uses the Linux desktop compositor. Linux updates use a new full archive. No Wine, Unity editor or separate Mono installation is needed. Ubuntu 22.04/24.04 family with current graphics drivers is recommended; Intel/AMD x86_64 only.
 
@@ -20,6 +20,8 @@ This repository contains the public website and downloadable alpha release files
 ## Controls
 
 WASD move, mouse look, Shift sprint, C/Ctrl crouch, F flashlight, E interact/hide, Tab objectives and instructions, M survey while staging or field map after breaker 1, Escape pause/resume. Prepare in the safe vestibule, then open the station door and cross to start the run. Restore INTAKE, FILTRATION and FLOODGATE in any order, then return to the green surface gate.
+
+Briarwake Estate is also playable from Level Select: study the safe potting house, restore three beneficial wards, and return to its estate gate. M unlocks after any ward. Wind Bell adds player tracking. Tool shelters replace lockers. All four difficulties are available in both levels. Corn Maze and Stone Labyrinth remain Coming Soon.
 
 ## Feedback
 
