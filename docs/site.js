@@ -15,5 +15,5 @@ $('share').addEventListener('click',async()=>{
 readRelease(AbortSignal.timeout(15000)).then(release=>{
   $('release-version').textContent='BUILD '+release.version;
   document.querySelector('.build-number').textContent='/ '+release.version;
-  $('download-facts').textContent=`Windows 10 / 11, 64-bit · Game download: ${(release.archiveSize/1000000).toFixed(1)} MB`;
+  $('download-facts').textContent=`Windows 10 / 11, 64-bit · Full installer: ${((release.installerSize||release.archiveSize)/1000000).toFixed(1)} MB`;
 }).catch(()=>{ /* The native launcher handles release availability and offline play. */ });

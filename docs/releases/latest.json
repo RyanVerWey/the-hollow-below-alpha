@@ -60,5 +60,9 @@
     "Two connected new wings and 18 hiding lockers.",
     "Denser drifting haze and a dimmer, shorter flashlight beam.",
     "New pursuit shrieks and the Blackwater exploration score."
-  ]
+  ],
+  "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.7.0/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 48085509,
+  "installerSha256": "7d136095f66110a98afa00917b6616bf9a4635a869c49ff5262856499ccf9c08"
 }
