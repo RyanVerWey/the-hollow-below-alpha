@@ -1,0 +1,58 @@
+Creature vocal performances
+
+Monster snarls by Darsycho, CC0
+https://opengameart.org/content/monster-snarls
+
+16 Monster Growls by StarNinjas, CC0
+https://opengameart.org/content/16-monster-growls
+
+Creative Commons Zero 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Recordings edited, pitch shifted, layered, equalized and mastered for The Hollow Below.
+
+
+	
+
+	Impact Sounds (1.0)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 19-12-2019
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+
+	Support us by crediting Kenney or www.kenney.nl (this is not mandatory)
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+	Patreon:  http://patreon.com/kenney/
+
+	Follow on Twitter for updates:
+	http://twitter.com/KenneyNL
+
+THE HOLLOW BELOW / SUNO AUDIO / 2026-10-24
+
+Created through the project owner's signed-in Suno account for this game.
+No public publication action was taken.
+
+Attack scream:
+https://suno.com/song/938730f1-b755-4750-a948-366c49f61ff4
+
+The Wraith Hunt / pursuit sound loop:
+https://suno.com/song/29501643-a1d2-4cae-97e8-e27f196ba1a4
+
+Blackwater - Beneath the Haze / exploration score:
+https://suno.com/song/ebf9c5be-fd86-4776-814e-e6b5f79fd98e
+
+Creature sounds edited to mono for positional playback. Attack timing, gain,
+equalization, and loop crossfades prepared for this project. Score preserved
+in stereo and compressed for game delivery. Source files and exact prompts
+are retained in the project. This attribution is not a separate license grant.
+The existing recorded ambient growl retains its CC0 source credits.
