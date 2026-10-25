@@ -1,0 +1,981 @@
+{
+  "overview": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/1",
+  "project": "https://github.com/users/RyanVerWey/projects/30/views/2",
+  "deliveryBoard": "https://github.com/users/RyanVerWey/projects/30/views/3",
+  "milestones": {
+    "alpha": {
+      "number": 1,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/1",
+      "title": "01 - Playable alpha: fair hunts and round flow"
+    },
+    "survivors": {
+      "number": 2,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/2",
+      "title": "02 - Human survivors and cooperative presence"
+    },
+    "blackwater": {
+      "number": 3,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/3",
+      "title": "03 - Blackwater: industrial depth and the Repeater"
+    },
+    "hedge": {
+      "number": 4,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/4",
+      "title": "04 - Briarwake: living estate and chainsaw terror"
+    },
+    "corn": {
+      "number": 5,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/5",
+      "title": "05 - Last Harvest: corn maze and the Harvester"
+    },
+    "stone": {
+      "number": 6,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/6",
+      "title": "06 - The Ossuary: labyrinth and the Penitent"
+    },
+    "audio": {
+      "number": 7,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/7",
+      "title": "07 - Sound: presence, pursuit and player control"
+    },
+    "performance": {
+      "number": 8,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/8",
+      "title": "08 - Performance: depth within a measured budget"
+    },
+    "release": {
+      "number": 9,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/milestone/9",
+      "title": "09 - Windows alpha: native acceptance and delivery"
+    }
+  },
+  "issues": [
+    {
+      "id": "AC1",
+      "number": 2,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/2",
+      "milestoneKey": "performance",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC1] Record native CPU/GPU/frame-time baselines"
+    },
+    {
+      "id": "AC2",
+      "number": 3,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/3",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC2] Add distance LOD to large outdoor trees"
+    },
+    {
+      "id": "AC3",
+      "number": 4,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/4",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC3] Instance repeated foliage and prop materials"
+    },
+    {
+      "id": "AC4",
+      "number": 5,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/5",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC4] Cull distant shadow casters by quality tier"
+    },
+    {
+      "id": "AC5",
+      "number": 6,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/6",
+      "milestoneKey": "performance",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC5] Replace square ground fog with layered world haze"
+    },
+    {
+      "id": "AC6",
+      "number": 7,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/7",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC6] Add stable material depth and roughness variation"
+    },
+    {
+      "id": "AC7",
+      "number": 8,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/8",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC7] Bound dynamic light count and range"
+    },
+    {
+      "id": "AC8",
+      "number": 9,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/9",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC8] Pool recurring scares and particles"
+    },
+    {
+      "id": "AC9",
+      "number": 10,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/10",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC9] Remove recurring hunt allocations and redundant path work"
+    },
+    {
+      "id": "AC10",
+      "number": 11,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/11",
+      "milestoneKey": "performance",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC10] Expose coherent visual quality presets"
+    },
+    {
+      "id": "AC11",
+      "number": 12,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/12",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC11] Build dimensional pumping machinery"
+    },
+    {
+      "id": "AC12",
+      "number": 13,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/13",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC12] Add overhead service runs and cable sag"
+    },
+    {
+      "id": "AC13",
+      "number": 14,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/14",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC13] Create distinct recognizable station sectors"
+    },
+    {
+      "id": "AC14",
+      "number": 15,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/15",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC14] Add believable wetness and shallow drainage"
+    },
+    {
+      "id": "AC15",
+      "number": 16,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/16",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC15] Vary blood and damage storytelling"
+    },
+    {
+      "id": "AC16",
+      "number": 17,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/17",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC16] Animate failing industrial equipment"
+    },
+    {
+      "id": "AC17",
+      "number": 18,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/18",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC17] Improve breaker prop and interaction feedback"
+    },
+    {
+      "id": "AC18",
+      "number": 19,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/19",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC18] Improve safe-room teaching props"
+    },
+    {
+      "id": "AC19",
+      "number": 20,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/20",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC19] Add useful concealment and route props"
+    },
+    {
+      "id": "AC20",
+      "number": 21,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/21",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC20] Tune station lighting for readable darkness"
+    },
+    {
+      "id": "AC21",
+      "number": 22,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/22",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC21] Give hedge faces real three-dimensional foliage"
+    },
+    {
+      "id": "AC22",
+      "number": 23,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/23",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC22] Create varied botanical hedge silhouettes"
+    },
+    {
+      "id": "AC23",
+      "number": 24,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/24",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC23] Build old-growth tree variants and roots"
+    },
+    {
+      "id": "AC24",
+      "number": 25,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/25",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC24] Add a layered night sky and blood-moon halo"
+    },
+    {
+      "id": "AC25",
+      "number": 26,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/26",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC25] Add wind through foliage and hanging objects"
+    },
+    {
+      "id": "AC26",
+      "number": 27,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/27",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC26] Create a meaningful abandoned garden prop kit"
+    },
+    {
+      "id": "AC27",
+      "number": 28,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/28",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC27] Finish lantern mounting and clearance"
+    },
+    {
+      "id": "AC28",
+      "number": 29,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/29",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC28] Deepen dirt paths with natural edges"
+    },
+    {
+      "id": "AC29",
+      "number": 30,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/30",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC29] Make ward activation theatrical and useful"
+    },
+    {
+      "id": "AC30",
+      "number": 31,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/31",
+      "milestoneKey": "hedge",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC30] Improve Briarwake shelters and escape gate"
+    },
+    {
+      "id": "AC31",
+      "number": 32,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/32",
+      "milestoneKey": "blackwater",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC31] Rebuild the Repeater silhouette and anatomy"
+    },
+    {
+      "id": "AC32",
+      "number": 33,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/33",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC32] Give Repeater skin physically responsive detail"
+    },
+    {
+      "id": "AC33",
+      "number": 34,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/34",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC33] Animate Repeater stalking with planted contact"
+    },
+    {
+      "id": "AC34",
+      "number": 35,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/35",
+      "milestoneKey": "blackwater",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC34] Animate Repeater chase, crawl and attack"
+    },
+    {
+      "id": "AC35",
+      "number": 36,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/36",
+      "milestoneKey": "hedge",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC35] Rebuild Thornkeeper as a readable demonic farmer"
+    },
+    {
+      "id": "AC36",
+      "number": 37,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/37",
+      "milestoneKey": "hedge",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC36] Animate Thornkeeper chainsaw locomotion and attacks"
+    },
+    {
+      "id": "AC37",
+      "number": 38,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/38",
+      "milestoneKey": "corn",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC37] Build the corn monster with its own visual identity"
+    },
+    {
+      "id": "AC38",
+      "number": 39,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/39",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC38] Animate corn creature listening and lunging"
+    },
+    {
+      "id": "AC39",
+      "number": 40,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/40",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC39] Build the stone monster with its own visual identity"
+    },
+    {
+      "id": "AC40",
+      "number": 41,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/41",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC40] Animate stone guardian weight and phase changes"
+    },
+    {
+      "id": "AC41",
+      "number": 42,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/42",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC41] Correct survivor head, hand and body proportions"
+    },
+    {
+      "id": "AC42",
+      "number": 43,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/43",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC42] Improve survivor facial materials and eyes"
+    },
+    {
+      "id": "AC43",
+      "number": 44,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/44",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC43] Improve clothing construction and silhouette"
+    },
+    {
+      "id": "AC44",
+      "number": 45,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/45",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC44] Improve hair volume and silhouettes"
+    },
+    {
+      "id": "AC45",
+      "number": 46,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/46",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC45] Rework walking contact and weight transfer"
+    },
+    {
+      "id": "AC46",
+      "number": 47,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/47",
+      "milestoneKey": "survivors",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC46] Rework running and deceleration"
+    },
+    {
+      "id": "AC47",
+      "number": 48,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/48",
+      "milestoneKey": "survivors",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC47] Add crouch and concealment transitions"
+    },
+    {
+      "id": "AC48",
+      "number": 49,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/49",
+      "milestoneKey": "survivors",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC48] Add held-light and interaction poses"
+    },
+    {
+      "id": "AC49",
+      "number": 50,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/50",
+      "milestoneKey": "survivors",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC49] Add voice/listening and injured body language"
+    },
+    {
+      "id": "AC50",
+      "number": 51,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/51",
+      "milestoneKey": "survivors",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC50] Validate replicated survivor animation"
+    },
+    {
+      "id": "AC51",
+      "number": 52,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/52",
+      "milestoneKey": "corn",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC51] Generate a distinct connected corn maze"
+    },
+    {
+      "id": "AC52",
+      "number": 53,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/53",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC52] Build dimensional corn rows"
+    },
+    {
+      "id": "AC53",
+      "number": 54,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/54",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC53] Create farmyard safe staging"
+    },
+    {
+      "id": "AC54",
+      "number": 55,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/55",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC54] Add three beneficial harvest objectives"
+    },
+    {
+      "id": "AC55",
+      "number": 56,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/56",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC55] Build windmill, silo and derelict machinery landmarks"
+    },
+    {
+      "id": "AC56",
+      "number": 57,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/57",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC56] Create a cold harvest night atmosphere"
+    },
+    {
+      "id": "AC57",
+      "number": 58,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/58",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC57] Implement corn-specific monster senses"
+    },
+    {
+      "id": "AC58",
+      "number": 59,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/59",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC58] Create corn-specific scares and dynamic events"
+    },
+    {
+      "id": "AC59",
+      "number": 60,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/60",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC59] Integrate corn progression and multiplayer"
+    },
+    {
+      "id": "AC60",
+      "number": 61,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/61",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC60] Balance four corn difficulties"
+    },
+    {
+      "id": "AC61",
+      "number": 62,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/62",
+      "milestoneKey": "stone",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC61] Generate a distinct connected stone labyrinth"
+    },
+    {
+      "id": "AC62",
+      "number": 63,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/63",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC62] Build dimensional masonry and carved arches"
+    },
+    {
+      "id": "AC63",
+      "number": 64,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/64",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC63] Create an underground refuge and instructions"
+    },
+    {
+      "id": "AC64",
+      "number": 65,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/65",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC64] Add three beneficial seal objectives"
+    },
+    {
+      "id": "AC65",
+      "number": 66,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/66",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC65] Build meaningful crypt landmark props"
+    },
+    {
+      "id": "AC66",
+      "number": 67,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/67",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC66] Create a subterranean atmosphere"
+    },
+    {
+      "id": "AC67",
+      "number": 68,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/68",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC67] Implement guardian-specific hunting behavior"
+    },
+    {
+      "id": "AC68",
+      "number": 69,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/69",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC68] Create stone-specific ambient events and scares"
+    },
+    {
+      "id": "AC69",
+      "number": 70,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/70",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC69] Integrate labyrinth progression and multiplayer"
+    },
+    {
+      "id": "AC70",
+      "number": 71,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/71",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC70] Balance four labyrinth difficulties"
+    },
+    {
+      "id": "AC71",
+      "number": 72,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/72",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC71] Generate a corn ambient score in Suno"
+    },
+    {
+      "id": "AC72",
+      "number": 73,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/73",
+      "milestoneKey": "corn",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC72] Generate corn creature audio in Suno"
+    },
+    {
+      "id": "AC73",
+      "number": 74,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/74",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC73] Generate a stone ambient score in Suno"
+    },
+    {
+      "id": "AC74",
+      "number": 75,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/75",
+      "milestoneKey": "stone",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC74] Generate stone guardian audio in Suno"
+    },
+    {
+      "id": "AC75",
+      "number": 76,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/76",
+      "milestoneKey": "audio",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC75] Master and loop the new audio cleanly"
+    },
+    {
+      "id": "AC76",
+      "number": 77,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/77",
+      "milestoneKey": "audio",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC76] Make creature distance audible before visibility"
+    },
+    {
+      "id": "AC77",
+      "number": 78,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/78",
+      "milestoneKey": "audio",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC77] Add environment-aware echo character"
+    },
+    {
+      "id": "AC78",
+      "number": 79,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/79",
+      "milestoneKey": "audio",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC78] Add layered adaptive pursuit music"
+    },
+    {
+      "id": "AC79",
+      "number": 80,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/80",
+      "milestoneKey": "audio",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC79] Add surface and movement footstep variety"
+    },
+    {
+      "id": "AC80",
+      "number": 81,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/81",
+      "milestoneKey": "audio",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC80] Add clear audio and dynamic-range controls"
+    },
+    {
+      "id": "AC81",
+      "number": 82,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/82",
+      "milestoneKey": "alpha",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC81] Unify level selection and objectives UI"
+    },
+    {
+      "id": "AC82",
+      "number": 83,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/83",
+      "milestoneKey": "alpha",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC82] Improve objective discoverability"
+    },
+    {
+      "id": "AC83",
+      "number": 84,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/84",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC83] Tune finite monster evidence and LOS breaks"
+    },
+    {
+      "id": "AC84",
+      "number": 85,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/85",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC84] Prevent multiplayer target ping-pong"
+    },
+    {
+      "id": "AC85",
+      "number": 86,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/86",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC85] Add fair tension escalation"
+    },
+    {
+      "id": "AC86",
+      "number": 87,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/87",
+      "milestoneKey": "alpha",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC86] Improve encounter pacing and scare variety"
+    },
+    {
+      "id": "AC87",
+      "number": 88,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/88",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC87] Make objective attraction fair and legible"
+    },
+    {
+      "id": "AC88",
+      "number": 89,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/89",
+      "milestoneKey": "alpha",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC88] Add meaningful prop interactions"
+    },
+    {
+      "id": "AC89",
+      "number": 90,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/90",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC89] Improve player feedback and failure recovery"
+    },
+    {
+      "id": "AC90",
+      "number": 91,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/91",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC90] Improve input and comfort options"
+    },
+    {
+      "id": "AC91",
+      "number": 92,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/92",
+      "milestoneKey": "release",
+      "stage": "Needs verification",
+      "closed": false,
+      "title": "[AC91] Automate maze solvability for every seed and tier"
+    },
+    {
+      "id": "AC92",
+      "number": 93,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/93",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC92] Audit prop and animation collision clearance"
+    },
+    {
+      "id": "AC93",
+      "number": 94,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/94",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC93] Exercise every world in native solo"
+    },
+    {
+      "id": "AC94",
+      "number": 95,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/95",
+      "milestoneKey": "release",
+      "stage": "Verified",
+      "closed": true,
+      "title": "[AC94] Exercise every world in four-player sessions"
+    },
+    {
+      "id": "AC95",
+      "number": 96,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/96",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC95] Stress monster behavior deterministically"
+    },
+    {
+      "id": "AC96",
+      "number": 97,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/97",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC96] Review every monster in native moving footage"
+    },
+    {
+      "id": "AC97",
+      "number": 98,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/98",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC97] Review all environments in native moving footage"
+    },
+    {
+      "id": "AC98",
+      "number": 99,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/99",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC98] Run sustained performance and leak checks"
+    },
+    {
+      "id": "AC99",
+      "number": 100,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/100",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC99] Verify a clean Windows install and launcher"
+    },
+    {
+      "id": "AC100",
+      "number": 101,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/101",
+      "milestoneKey": "release",
+      "stage": "Building",
+      "closed": false,
+      "title": "[AC100] Complete independent acceptance and release notes"
+    },
+    {
+      "id": "FOLLOWUP-RESULTS",
+      "number": 102,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/102",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "Round scoreboards and persistent multiplayer parties"
+    },
+    {
+      "id": "FOLLOWUP-FINAL-HUNT",
+      "number": 103,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/103",
+      "milestoneKey": "alpha",
+      "stage": "Building",
+      "closed": false,
+      "title": "Final objective: relentless, fair closest-player interception"
+    },
+    {
+      "id": "FOLLOWUP-VOICE",
+      "number": 104,
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/issues/104",
+      "title": "Finish and verify free push-to-talk/open-mic voice and monster hearing",
+      "milestoneKey": "audio",
+      "stage": "Needs verification",
+      "closed": false
+    }
+  ]
+}

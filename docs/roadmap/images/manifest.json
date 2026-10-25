@@ -109,6 +109,42 @@
       "kind": "actual native Windows review capture",
       "caption": "Survivor4: actual native0.22.14 neutral-light review capture of the V3 candidate. A studio review image, not a world screenshot; final contextual animation acceptance remains open.",
       "sha256": "947b172fb82df9d4a1079128f3ebb758a44c60850480737e9120644c7641180d"
+    },
+    {
+      "path": "images/repeater-target-concept.png",
+      "kind": "generated concept art",
+      "caption": "Original Repeater anatomy target, not an imported model or gameplay. Concept footer explicitly identifies its status.",
+      "sha256": "ac93bcb816e66d5d03acfef3416ccc378393580a8f8f5224f3f9ddbf17fc568d"
+    },
+    {
+      "path": "images/farmer-native20.png",
+      "kind": "actual native Windows review capture",
+      "caption": "Actual native0.22.20 Farmer candidate after boot and apron corrections. Continuous bib and planted sole passed; glossy coat and fingers/power grip still need visual refinement. Studio review, not world gameplay.",
+      "sha256": "07ace87bf51039d73e87bb69b0346c2a6e9daea55bf558ce499c8ac535d99bc1"
+    },
+    {
+      "path": "images/blackwater-results-current.png",
+      "kind": "actual native Windows scoreboard capture",
+      "caption": "Actual native0.22.21 Blackwater win scoreboard after real smoke-fixture objective interactions. Fixture clocks are accelerated/staged; these are not normal player completion times.",
+      "sha256": "1593917d82223c63e4c9bd2b9b4a2272be28f4c8ffd686edbacb2536fb202f61"
+    },
+    {
+      "path": "images/hedge-results-current.png",
+      "kind": "actual native Windows scoreboard capture",
+      "caption": "Actual native0.22.21 Briarwake win scoreboard after the actual objective/win path in the native smoke fixture. Fixture timings are not a balance benchmark.",
+      "sha256": "eb2f7ef2cd27f1966da3bb9a1d3773827c2f5a7f04cac662786d613d5e72a2a8"
+    },
+    {
+      "path": "images/corn-results-current.png",
+      "kind": "actual native Windows scoreboard capture",
+      "caption": "Actual native0.22.21 Last Harvest win scoreboard from the native progression fixture. This proves a rendered terminal screen, not unassisted playability.",
+      "sha256": "9863a8ada5fbbdea066ec8ab93124e6cc26fe66aa0f0027aa8acdc8ca863e00c"
+    },
+    {
+      "path": "images/stone-results-current.png",
+      "kind": "actual native Windows scoreboard capture",
+      "caption": "Actual native0.22.21 Ossuary win scoreboard from the native progression fixture. Online scoreboard replication and repeat-round flow require separate evidence.",
+      "sha256": "558b85183c1bd48cda28ab4b9849ac04084ebe1259ce131502d2673812e9e6d4"
     }
   ]
 }

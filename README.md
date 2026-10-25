@@ -29,3 +29,9 @@ Briarwake Estate is also playable from Level Select: study the safe potting hous
 ## Feedback
 
 Report your build number, Windows version, what happened, and reproduction steps through [Issues](https://github.com/RyanVerWey/the-hollow-below-alpha/issues). Please do not post personal information or full system reports.
+
+## Development roadmap
+
+[Project board](https://github.com/users/RyanVerWey/projects/30/views/2) · [Milestones](https://github.com/RyanVerWey/the-hollow-below-alpha/milestones) · [Visual roadmap, concept art and actual screenshots](docs/roadmap/README.md).
+
+The roadmap tracks100 original improvement goals plus the requested results/party, final-hunt and voice follow-ups. Internal four-world review builds are newer than the public0.20 download above. Concept art is explicitly labelled and is not gameplay.
