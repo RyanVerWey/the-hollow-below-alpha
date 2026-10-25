@@ -1,68 +1,70 @@
 {
   "schema": 1,
-  "version": "0.18.0",
+  "version": "0.18.1",
   "title": "The Hollow Below \u2014 Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 70687932,
-  "archiveSha256": "0a9bc8e0345d1cee054db9346d6691d8da87f4be8abe8ccf32602477af0ff2a4",
+  "archiveSize": 70866776,
+  "archiveSha256": "4c602e6baebe81e015484b5dd56bcf451e2c92403fc4cb970eb32473d3978018",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.18.0/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-01.bin",
+      "path": "releases/0.18.1/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-01.bin",
       "size": 8388608,
-      "sha256": "81350d3c3cf4e5c9e65684d0db7341aa71308ffd92f372be3e6e353fdfa29e12"
+      "sha256": "47e31680667dbf2964cdb43d78f8821b1fa9804d7bce8361f4afe0b26b39cd76"
     },
     {
-      "path": "releases/0.18.0/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-02.bin",
+      "path": "releases/0.18.1/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-02.bin",
       "size": 8388608,
-      "sha256": "0bd3cddc4f6e8089327b27e2598c40b4efb4cf1e31fb165125379e07de2f0849"
+      "sha256": "a6b9239b549305ce30377f5a57f1fd06758b4b976e8057dec2bd69d4f532f1cc"
     },
     {
-      "path": "releases/0.18.0/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-03.bin",
+      "path": "releases/0.18.1/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-03.bin",
       "size": 8388608,
-      "sha256": "2f988125dcaef0d8a0a1865f02c1c96023421d4e8e11494baa65fd1b28fa0da7"
+      "sha256": "f60c2b4b5092b56de6f826784fb01ee93d51deabe2366a1b69fa091ca5778871"
     },
     {
-      "path": "releases/0.18.0/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-04.bin",
+      "path": "releases/0.18.1/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-04.bin",
       "size": 8388608,
-      "sha256": "849441f1f1855f5b34f38b093489c95202b1afc5ce3793e54f817831685a0546"
+      "sha256": "7ae337999f7ce013483ec9ed1b418b7e494cbab54c45a078f781013e070b8cbe"
     },
     {
-      "path": "releases/0.18.0/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-05.bin",
+      "path": "releases/0.18.1/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-05.bin",
       "size": 8388608,
-      "sha256": "5c3e6447b63167316e4cdeffc4e8b63876bb1471f2214acaf2e7cfd400753cb0"
+      "sha256": "a621554169df432e3afa053b65d0cb9192dd56ca83f8e69ff850a3a70d2a35d9"
     },
     {
-      "path": "releases/0.18.0/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-06.bin",
+      "path": "releases/0.18.1/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-06.bin",
       "size": 8388608,
-      "sha256": "a29fa78d9f4cb81fb844240025856504797e284762f236efd71dfe279f87c64f"
+      "sha256": "fe8c3f94d93ae86d3c9b61eb0fca4752d74cde9c2dad50d26b4f425c671236ee"
     },
     {
-      "path": "releases/0.18.0/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-07.bin",
+      "path": "releases/0.18.1/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-07.bin",
       "size": 8388608,
-      "sha256": "97bfcfa939960e68a197242143c7ab071b2b3c654a129eff9a6c03aad5114d06"
+      "sha256": "5ffc18ab7c0ea5a5794bfa46af2c0d3959b2a3819ce2addf50227b605f1850ee"
     },
     {
-      "path": "releases/0.18.0/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-08.bin",
+      "path": "releases/0.18.1/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-08.bin",
       "size": 8388608,
-      "sha256": "7ff56fa00cedf8be3a3922016fda4e89ae8dd840ecb653dc14a4ab436cce1fb4"
+      "sha256": "7e181dc74e9c84b0c35a66c0dac3a1cd7368c706e6d34bf7078e64570d23fa72"
     },
     {
-      "path": "releases/0.18.0/windows-09.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/windows-09.bin",
-      "size": 3579068,
-      "sha256": "017a7fdff0f1b4644643e13a72e21dc84e7cbe9765a8d39e823ddfff79de9608"
+      "path": "releases/0.18.1/windows-09.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-09.bin",
+      "size": 3757912,
+      "sha256": "d81a951fa276fb240ce7e7715a9b663e257bef91228a9ce5aff7ccff3c87f16c"
     }
   ],
   "notes": [
+    "Blackwater unpowered breakers now emit paired maintenance chimes within 28 metres of connected corridors. The sound grows with proximity, remains audible around corners, stops on restoration and pauses with the game. The safe practice cabinet teaches the same cue. Environmental chimes do not alert the hunter; restoring a real breaker still does.",
+    "Blackwater corner scare cooldowns are roughly halved: Easy 60-100s, Normal 45-85s, Hard 40-72s, Nightmare 38-68s. Failed placements retry after 5-10s. Scares still require suitable corners and remain suppressed near the real hunter, during chases, while hiding, and in reduced-scare mode. Environmental bangs are a little more frequent.",
     "Briarwake Estate is now playable: a separate nighttime hedge maze with dim lanterns, drifting haze and an original Blender Thornkeeper carrying a chainsaw. Blackwater remains available.",
     "Restore the Lantern Ward for stronger guide lights and doubled portable-lantern endurance, Wind Bell for player tracking and a reusable nearby stagger, and Root Altar for three thorn shortcuts. Any restored ward unlocks the live M survey. Restore all three, return to the estate gate and escape. Ward locations stay hidden.",
     "Briarwake starts in a safe potting house with objectives and a planning survey. The hunt and timer begin only after crossing the garden gate.",
@@ -104,18 +106,18 @@
     "Nightmare removes flashlight and sprint, leaves 12 of 84 lockers usable, and caps pursuit below walking speed. Easy adds 24 shortcuts, 150 seconds of light, longer sprint and all lockers."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 57660814,
-  "installerSha256": "3f9e502d133cceba6ce0eea967a74b152ff9330fbeeaf7f6745fffbe759c771c",
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 57819162,
+  "installerSha256": "60ba507069eb90d103848c0cf9d1f552e9b2d0ffe3b7094bcbdf9572ca585465",
   "linux": {
-    "version": "0.18.0",
+    "version": "0.18.1",
     "architecture": "x86_64",
-    "filename": "The-Hollow-Below-Alpha-0.18.0-Linux-x86_64.tar.gz",
-    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.0/The-Hollow-Below-Alpha-0.18.0-Linux-x86_64.tar.gz",
-    "size": 68230270,
-    "sha256": "238d92c42b9c83716c6987305b76989f7cc292f95fbd4f8dbeec9defc6ba2eaf",
+    "filename": "The-Hollow-Below-Alpha-0.18.1-Linux-x86_64.tar.gz",
+    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/The-Hollow-Below-Alpha-0.18.1-Linux-x86_64.tar.gz",
+    "size": 68412146,
+    "sha256": "ce60ef31d1c3e227d9c5e4960c2a99727dff0696b1a02fade95acde7e7005c06",
     "executable": "The Hollow Below.x86_64",
     "executableSha256": "8027f7d1f9ae7dacfc826fb218adcc1ae7464af098a8a59397e7531c0f7ec0bc",
-    "buildDirectory": "Linux-v0.18"
+    "buildDirectory": "Linux-v0.18.1"
   }
 }
