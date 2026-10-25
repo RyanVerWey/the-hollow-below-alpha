@@ -134,6 +134,14 @@ recorded in docs/suno-hedge-download-ledger.json (six of ten allowed downloads).
 Generated content remains subject to the originating services' terms and the
 owner's rights. This notice does not assign a public-domain or CC0 license to it.
 
+Dormant objective guidance: original electrical/wind/root textures with edited
+Kenney Impact Sounds metal, tin, plank and wood Foley (CC0).
+https://kenney.nl/assets/impact-sounds
+See Kenney-Impact-Sounds.txt and docs/objective-audio.json for provenance.
+These original edits use no additional Suno downloads.
+
+0.19 art expansion: original Blender curved-root Thornkeeper and chainsaw, eleven 3D estate props, and Cycles bark/stone/foliage normal bakes. Editable source: ArtSource/Hedge/briarwake-art.blend and briarwake-surfaces.blend. No additional third-party visual downloads or Suno downloads used in this pass.
+
 
 	
 
