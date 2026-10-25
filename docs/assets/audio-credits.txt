@@ -93,6 +93,44 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
+Copyright (c) by various holding parties, including (but not limited to): 
+Skype Limited, Xiph.Org Foundation, CSIRO, Microsoft Corporation,
+Jean-Marc Valin, Gregory Maxwell, Mark Borgerding, Timothy B. Terriberry,
+Logan Stromberg. All rights are reserved by their respective holders.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of Internet Society, IETF or IETF Trust, nor the
+   names of specific contributors, may be used to endorse or promote
+   products derived from this software without specific prior written
+   permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+This repository and its redistributable packages contain independently compiled
+versions of the Opus C reference library, which is maintained by Xiph.org and the
+Opus open-source contributors. The source code for these libraries is freely available
+at https://gitlab.xiph.org/xiph/opus/-/tags/v1.5.2, and all binaries are being
+redistributed to you under the same terms of the general Opus license dictated above.
+
 Creature vocal performances
 
 Monster snarls by Darsycho, CC0
@@ -142,6 +180,13 @@ These original edits use no additional Suno downloads.
 
 0.19 art expansion: original Blender curved-root Thornkeeper and chainsaw, eleven 3D estate props, and Cycles bark/stone/foliage normal bakes. Editable source: ArtSource/Hedge/briarwake-art.blend and briarwake-surfaces.blend. No additional third-party visual downloads or Suno downloads used in this pass.
 
+0.20.2 local environment pass: raised flagstone paths replaced by procedural
+damp soil using the existing soil texture. Regular lanterns reuse the original
+portable-lantern mesh on weathered posts with fitted iron hangers. Hedge meshes
+now follow the union of wall footprints, with no overlapping top caps. Shelters
+and solid dressing have measured hedge clearance. Sky and audio assets unchanged.
+No additional third-party assets or Suno downloads were used.
+
 
 	
 
@@ -167,6 +212,62 @@ These original edits use no additional Suno downloads.
 
 	Follow on Twitter for updates:
 	http://twitter.com/KenneyNL
+
+THE HOLLOW BELOW / HUMAN MOTION REFERENCE
+
+Survivor locomotion reference and retargeted motion curves use trials35_01
+(walk) and35_17 (run/jog), subject35, at120Hz, from the Carnegie Mellon
+University Graphics Lab Motion Capture Database.
+
+Database and usage terms: https://mocap.cs.cmu.edu/
+FAQ: https://mocap.cs.cmu.edu/faqs.php
+The database permits use in commercially sold products; the dataset itself
+must not be resold directly, including converted copies. The game distributes
+game-specific retargeted motion, not a resale of the raw source library.
+
+The data used in this project was obtained from mocap.cs.cmu.edu.
+The database was created with funding from NSF EIA-0196217.
+
+Source references, hashes, skeleton and source videos are retained in the
+development project's ArtSource/Motion/CMU-reference directory. These raw
+reference files are not copied into the Windows game package.
+MakeHuman CC0 model assets are credited separately in Survivor-Assets.txt.
+
+
+THE HOLLOW BELOW / NIGHTMARE WORLDS
+
+Original world meshes, material maps, monster modifications, tools and analytic
+runtime animation were authored for this game in Blender and Unity.
+Editable authoring sources are retained by the project; Blender and MPFB2 code
+are not included in the game distribution.
+
+Monster anatomical topology, rig/weights, middle-age male skin atlas and
+male_worksuit01 tailoring derive from MakeHuman core assets, released CC0.
+The project adds proportional deformation, damaged tissue, original cloth
+aging, tools, carved surfaces, texture edits and runtime animation.
+Core source: https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html
+CC0 legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+See also Survivor-Assets.txt for the four adult survivor characters.
+
+Environment meshes and PBR maps for station machinery, garden foliage/props,
+farm machinery/corn and crypt architecture/props were authored locally.
+The earlier Briarwake concept and foliage references are described separately
+in Hedge-Assets.txt. Runtime geometry is distinct from those concept images.
+
+New harvest and crypt scores and creature performances were generated using
+the project owner's Suno account and edited, mastered and looped for runtime.
+Original source performances:
+The Last Harvest score: https://suno.com/song/ea6c8fb4-9dc7-41dc-b93a-f30f56d601f5
+The Ossuary score: https://suno.com/song/ff5ed978-9399-46b4-96fc-30983f407e7b
+Harvester calls: https://suno.com/song/dae6c2b3-aa9d-4d5c-bbb5-086a8d349b28
+Penitent calls: https://suno.com/song/3b58f6e3-ccd7-48aa-9efe-38577a3d0977
+Source hashes and editing details are retained in docs/expedition-audio-master.json
+in the development project. Existing performances and recordings are credited
+in Suno-Generated-Audio.txt, Hedge-Assets.txt and Creature-Recordings-CC0.txt.
+
+Original game-specific work remains subject to the owner's and applicable
+provider terms. Underlying CC0 material retains its public-domain status.
+
 
 THE HOLLOW BELOW / SUNO AUDIO / 2026-10-24
 
@@ -207,16 +308,27 @@ ten-file limit, including the automatic MP3 companions to requested WAVs.
 THE HOLLOW BELOW / SURVIVORS
 
 Adrian, Marcus, Vivian and Ellis are original adult characters for this game.
-Matching reference art, portraits and projected surface textures were generated
+Matching reference art and facial reference textures were generated
 with the project owner's Grok Imagine account.
 Reference: https://grok.com/imagine/post/6e7de42e-b295-486f-968b-964f0cd84eb0?scope=asset
 
 The reference image is concept/texture art, not a 3D asset or gameplay capture.
-Original articulated polygon meshes and props were authored in Blender 4.5.9.
-Generator: tools/build_survivor_models.py
-Editable source: ArtSource/Survivors/hollow-survivors.blend
-Provenance: docs/survivor-art-provenance.json
-Game/art rights reserved subject to provider terms.
+The current anatomical bodies, fitted clothing, eyes, brows, lashes and hair
+derive from MakeHuman's core CC0 assets, fitted with MPFB2 in Blender 4.5.9.
+Core asset source: https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html
+License: https://www.makehumancommunity.org/about/license.html
+The MakeHuman core assets are dedicated to the public domain under CC0.
+MPFB2 and Blender are authoring tools; their executable/source code is not
+distributed in the game. Their tool licenses do not replace the CC0 art license.
+
+Original modifications include clothing combinations and colors, optical frames,
+UV-baked facial references and 53-bone Idle/Walk/Run/Crouch animation cycles.
+Lobby portraits are renders of the actual current 3D characters.
+Generator: tools/build_survivors_v2.py
+Editable source: ArtSource/Survivors-v2/hollow-survivors-v2.blend
+Provenance and source hashes: docs/survivor-v2-provenance.json
+Original game-specific work is reserved subject to provider terms; underlying
+CC0 assets retain their public-domain status.
 
 Unity Netcode for GameObjects, Unity Transport and Multiplayer Services are
 distributed under their included Unity licenses. Co-op uses Unity Authentication

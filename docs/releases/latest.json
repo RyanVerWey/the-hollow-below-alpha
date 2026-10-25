@@ -1,134 +1,255 @@
 {
   "schema": 1,
-  "version": "0.20.0",
-  "title": "The Hollow Below \u00e2\u20ac\u201d Alpha",
+  "version": "0.22.45",
+  "title": "The Hollow Below / Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 84909324,
-  "archiveSha256": "7c40fa978b6238e658647db310458ef4d27052372aef63248ddfef355c431a02",
+  "archiveSize": 310988938,
+  "archiveSha256": "cbc3c8972aa4b4ea8a0589de7968d3a7c9df6b6bc88cab8cadf80c99a9cae0a9",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.20.0/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-01.bin",
+      "path": "releases/0.22.45/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-01.bin",
       "size": 8388608,
-      "sha256": "e6d84de1a6c7c2c35566a1b15aabf3551b3dd76204d2791afea11ca53c59c909"
+      "sha256": "c53fa12bd40aab57e6c1538740d9d79ed766cf94416e0a7fafad59b532d012f7"
     },
     {
-      "path": "releases/0.20.0/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-02.bin",
+      "path": "releases/0.22.45/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-02.bin",
       "size": 8388608,
-      "sha256": "c448616c51c500a48e05c0e73c2f73647255a667b9e62e339334e68d09b37bfe"
+      "sha256": "864f5ee78fd532c7cfff23542e0e6573c3ceec7854ad76ebf900f04a149a126f"
     },
     {
-      "path": "releases/0.20.0/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-03.bin",
+      "path": "releases/0.22.45/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-03.bin",
       "size": 8388608,
-      "sha256": "7a4bb74fe1f90b4ba23243ae7be0e19b55bdcda8619916fce7c13da525f7671b"
+      "sha256": "77ba12c35967f13d364242bc6416fbaacfe98c95d6ab850b44ed73aa19acd062"
     },
     {
-      "path": "releases/0.20.0/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-04.bin",
+      "path": "releases/0.22.45/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-04.bin",
       "size": 8388608,
-      "sha256": "336810ebe04378753e9b99f9477ab733365101a9c8e0def4818b9214a1a210aa"
+      "sha256": "3d9ea306aa164775a9b9a7a743a84587412b26d5a9351e494ce151297d443b7a"
     },
     {
-      "path": "releases/0.20.0/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-05.bin",
+      "path": "releases/0.22.45/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-05.bin",
       "size": 8388608,
-      "sha256": "0bb13b55726b3e945d1396f8d753b5819149fc98d4acac649f266490241eed46"
+      "sha256": "4b4aef5942d943d312397280deee3618be748d4eef99914f179d4ffd5bdda609"
     },
     {
-      "path": "releases/0.20.0/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-06.bin",
+      "path": "releases/0.22.45/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-06.bin",
       "size": 8388608,
-      "sha256": "94b33313a200595c18b4118b386cf49537cf00d9c3ed3048c250762d0ed5030c"
+      "sha256": "0271540ac40d528830a832b0c4a54fab531f70a442ade7f7b0721abf154ba44b"
     },
     {
-      "path": "releases/0.20.0/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-07.bin",
+      "path": "releases/0.22.45/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-07.bin",
       "size": 8388608,
-      "sha256": "88fba2f1f8a23f48f7fa01671e3bb3ee1c934a29b8c19d50720e97aeadd979cb"
+      "sha256": "7e955d34466ca6f03c47cd6f07639636aa0439c18dcf3e60151c62faec089fca"
     },
     {
-      "path": "releases/0.20.0/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-08.bin",
+      "path": "releases/0.22.45/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-08.bin",
       "size": 8388608,
-      "sha256": "46930cc205ebe6db4ad123d71c0a8148185cec9f6657c67cc54e248cef2be4c7"
+      "sha256": "6d8520fef32c5920afee882d6ad89005bfc5e37f5d040434e3c6bcb8b462340b"
     },
     {
-      "path": "releases/0.20.0/windows-09.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-09.bin",
+      "path": "releases/0.22.45/windows-09.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-09.bin",
       "size": 8388608,
-      "sha256": "a5cc9729bbc89ae31f4f344dcba70800c180919521ad91b93a43710eb947c5e1"
+      "sha256": "e2e440d6a1d75c276419c4716008f4b3ca5b03ad41ec0db587bf34e379f553e0"
     },
     {
-      "path": "releases/0.20.0/windows-10.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-10.bin",
+      "path": "releases/0.22.45/windows-10.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-10.bin",
       "size": 8388608,
-      "sha256": "eb206ac94b63a22e690f87637e7a46f39a6923e20e2341947d59cfd981daa5ad"
+      "sha256": "cad78527f50561b2a870fe334fc014a334acbf4424236c22379e7c4920d4c981"
     },
     {
-      "path": "releases/0.20.0/windows-11.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/windows-11.bin",
-      "size": 1023244,
-      "sha256": "01c02198d16a1f9beef1b4c28af55259a4c0c58c14a908122754ffc0183aa90e"
+      "path": "releases/0.22.45/windows-11.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-11.bin",
+      "size": 8388608,
+      "sha256": "18eb7fbe4961f6c8e75b3c57930649326daf9d7fc2488517e94b7d1806bf1390"
+    },
+    {
+      "path": "releases/0.22.45/windows-12.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-12.bin",
+      "size": 8388608,
+      "sha256": "1e08564160651f949bf6d1fb40aea1d2c86e1adff75bce67d5c27ba6eced957f"
+    },
+    {
+      "path": "releases/0.22.45/windows-13.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-13.bin",
+      "size": 8388608,
+      "sha256": "f3e7ca4eafc78480744c92652c36d9cea1d5fa46fc0b433a45186b09b4d94911"
+    },
+    {
+      "path": "releases/0.22.45/windows-14.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-14.bin",
+      "size": 8388608,
+      "sha256": "97eb823f300e7740eed25734c491b58f1f1ea571f0c3583e66e39b5cdef8287e"
+    },
+    {
+      "path": "releases/0.22.45/windows-15.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-15.bin",
+      "size": 8388608,
+      "sha256": "1a85adb1e18ebb3469a1467e55eb95887286acbb944d385c9e8f360c98771e51"
+    },
+    {
+      "path": "releases/0.22.45/windows-16.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-16.bin",
+      "size": 8388608,
+      "sha256": "918a398e01541c06533d360f82dde247f021f8d74e7f6e13b44907ad23bb0435"
+    },
+    {
+      "path": "releases/0.22.45/windows-17.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-17.bin",
+      "size": 8388608,
+      "sha256": "4f7e80c3b32b9552a88833178dc06466d76bb73af9fd0f1b33616c44d9843979"
+    },
+    {
+      "path": "releases/0.22.45/windows-18.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-18.bin",
+      "size": 8388608,
+      "sha256": "96750546f4ed1d00e7305a1fb539a9156271c2d3831b806e773ca8e6ce2849f9"
+    },
+    {
+      "path": "releases/0.22.45/windows-19.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-19.bin",
+      "size": 8388608,
+      "sha256": "ed94525cc431ddf8e8bdbcb9e66ca7187f9addce465befa20ab1bd860f1eb8ae"
+    },
+    {
+      "path": "releases/0.22.45/windows-20.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-20.bin",
+      "size": 8388608,
+      "sha256": "16be92418f52b16f32d641841a99f6e8c19f8f233dfc4dc9133099c37f6c0834"
+    },
+    {
+      "path": "releases/0.22.45/windows-21.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-21.bin",
+      "size": 8388608,
+      "sha256": "5bf583f359af541e49b8c992703ff81b9e0d48c464a427f6f1ed28cb12eddca9"
+    },
+    {
+      "path": "releases/0.22.45/windows-22.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-22.bin",
+      "size": 8388608,
+      "sha256": "f8c01017f454dd3ff6ac62b87378577e1fafca335e05c72202b95cd0eed8b6dd"
+    },
+    {
+      "path": "releases/0.22.45/windows-23.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-23.bin",
+      "size": 8388608,
+      "sha256": "653d3667724f2b550b0cc43f79aa3db38ff18fdb4a1cd88cecb00be1773f976f"
+    },
+    {
+      "path": "releases/0.22.45/windows-24.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-24.bin",
+      "size": 8388608,
+      "sha256": "c0e4c7ed4472e4f917574e170edf0b187ccee5209dc30e4323cb2b7aaf95f0e3"
+    },
+    {
+      "path": "releases/0.22.45/windows-25.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-25.bin",
+      "size": 8388608,
+      "sha256": "101bd1d77a9f42a64619b7fab726b92b19ae215b840fe83183a52456e86283d3"
+    },
+    {
+      "path": "releases/0.22.45/windows-26.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-26.bin",
+      "size": 8388608,
+      "sha256": "e8d01f727cb1dd40ca9b415a6d91f4d530dd262714998bcf3a1426c128d2e684"
+    },
+    {
+      "path": "releases/0.22.45/windows-27.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-27.bin",
+      "size": 8388608,
+      "sha256": "f1110e7f24383cdf81fdeca2744226932d03194f9d2e419ad66eea9f9a19cee8"
+    },
+    {
+      "path": "releases/0.22.45/windows-28.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-28.bin",
+      "size": 8388608,
+      "sha256": "aabb8386c6d531d33609faaa229782096e4ff8a77539428ee9c57e4d14dabb34"
+    },
+    {
+      "path": "releases/0.22.45/windows-29.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-29.bin",
+      "size": 8388608,
+      "sha256": "e84bc4ffd9a4fdb1894528da56b18a47aa845454d355c549e84f189a84931019"
+    },
+    {
+      "path": "releases/0.22.45/windows-30.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-30.bin",
+      "size": 8388608,
+      "sha256": "1cc7026295b6082d75ac9fa1d05820af95379c6a4f509b5d59b2e0ddc9f6ffd9"
+    },
+    {
+      "path": "releases/0.22.45/windows-31.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-31.bin",
+      "size": 8388608,
+      "sha256": "9fb6f1ec6a5bf3f2b4e9746807841479a53d4fddd7c0e888a8ba75c6fa725773"
+    },
+    {
+      "path": "releases/0.22.45/windows-32.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-32.bin",
+      "size": 8388608,
+      "sha256": "0c782d19d267042da9406a9bcaf976bbe9d01494971fcbe969e0c78be3a5bbb2"
+    },
+    {
+      "path": "releases/0.22.45/windows-33.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-33.bin",
+      "size": 8388608,
+      "sha256": "560e20d267c64fcbafc9b06ace0aedbe835ce9dfb9d4aad4ba6157b9806f6634"
+    },
+    {
+      "path": "releases/0.22.45/windows-34.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-34.bin",
+      "size": 8388608,
+      "sha256": "77949e315dcdd6b35103b8b9febfec6b313a6ee428f1ba65fc94c3adeab18a19"
+    },
+    {
+      "path": "releases/0.22.45/windows-35.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-35.bin",
+      "size": 8388608,
+      "sha256": "1e469fc630e4990f95337970693338e8a4fef8931169821ea510aae517ab52ea"
+    },
+    {
+      "path": "releases/0.22.45/windows-36.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-36.bin",
+      "size": 8388608,
+      "sha256": "43103a0ff11ae3cb9e0d99fd6964032b58a51da46d74417312ab793ae538fba4"
+    },
+    {
+      "path": "releases/0.22.45/windows-37.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-37.bin",
+      "size": 8388608,
+      "sha256": "edf289d8ce05a8f78a611289f4e437490748c1ecc8a368ac677194902bc3033d"
+    },
+    {
+      "path": "releases/0.22.45/windows-38.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/windows-38.bin",
+      "size": 610442,
+      "sha256": "3415f938c7bf03ad8328bd60329a5238bbaa25d286346fb44b260141b0d18f86"
     }
   ],
   "notes": [
-    "Private co-op for 2\u20134 players on both levels. The host creates a Unity Relay invite code; friends enter it without accounts or port forwarding. Each survivor starts in a different reachable sector. The host owns objectives, the monster, hiding, deaths and escape; leaving as host ends the session.",
-    "Four selectable adult survivors: Adrian the businessman, Marcus the athlete, Vivian the socialite and Ellis the researcher. Grok Imagine supplied matching reference art and portraits; original Blender articulated 3D meshes provide animated in-game bodies. Character selection is exclusive.",
-    "Editable 20-character player names save locally and synchronize to the lobby and crew display. Character titles and longer player names fit their allotted space.",
-    "Co-op objectives and discoveries are shared. Noise from every survivor can trigger pursuit before sight. Dead or escaped players spectate the survivors. Each survivor must reach the exit; the host can return the group to the lobby after the run. Online menus do not pause the hunt. Solo pause remains unchanged.",
-    "Windows-only release. Linux downloads have been withdrawn at the project owner's request.",
-    "Briarwake art overhaul: original Blender articulated briar demon, branching crown, ember eyes and detailed chainsaw; eleven original 3D environment props including ancient trees, ivy, roots, stone lantern piers, grave markers, broken fences, portable lantern and three distinct ward shrines. Baked bark, stone and leaf relief react to light.",
-    "Taller layered hedges and raised wet flagstone paths, a star-filled clouded sky with blood moon and red moonlight, and animated depth haze. Physical corridors narrow from 3.2 to 2.36 metres. Chunked static geometry batches retain traversable lanes and shelter access.",
-    "Thornkeeper pursuit now retains its forward waypoint during replanning, accelerates smoothly and carries movement across corners. Difficulty-scaled chase speed remains below the available player escape speed. Existing hearing, finite sound memory, entry grace and recovery remain.",
-    "Thornkeeper now performs an actual chainsaw attack: visible windup, a committed short swing, fresh line-of-sight and blade-arc checks, then recovery. Retreat, physical cover, unseen shelter entry or a Wind Bell stagger can prevent a strike. Fatal hits show the animated attack before defeat. Pausing freezes combat.",
-    "Briarwake dormant wards now have distinct positional guidance: hollow wind and loose metal at the unlit Lantern Ward, a creaking hanger and muted clapper at the Wind Bell, and dry root groans at the Root Altar. Follow the sound through nearby connected corridors; it grows louder on approach and stops when restored. The cues pause with menus, reset on retry, follow opened root shortcuts, and create no hunter evidence or automatic map discovery.",
-    "Both levels now record objectives actually seen nearby or interacted with. Found objectives appear as numbered amber map markers and become green checked markers on completion. Unseen locations remain hidden, discoveries survive menus and hiding, and a fresh run clears them. Existing map unlocks and tracking rewards stay intact.",
-    "Blackwater and Briarwake share one UI system: matching HUD, objective checklist with Not Found / Found / Completed states, map panel and legend, planning survey layout, difficulty selection, pause actions, confirmation warnings, settings tabs and end-screen controls. TAB closes objectives and M closes planning surveys in both levels.",
-    "Blackwater unpowered breakers now emit electrical cabinet buzzing and arcing fizz within 28 metres of connected corridors. The sound grows with proximity, remains audible around corners and stops on restoration or pause. The practice cabinet teaches the same buzz. Environmental cues do not alert the hunter; restoring a real breaker still does.",
-    "Blackwater corner scare cooldowns are roughly halved: Easy 60-100s, Normal 45-85s, Hard 40-72s, Nightmare 38-68s. Failed placements retry after 5-10s. Scares still require suitable corners and remain suppressed near the real hunter, during chases, while hiding, and in reduced-scare mode. Environmental bangs are a little more frequent.",
-    "Briarwake Estate is now playable: a separate nighttime hedge maze with dim lanterns, drifting haze and an original Blender Thornkeeper carrying a chainsaw. Blackwater remains available.",
-    "Restore the Lantern Ward for stronger guide lights and doubled portable-lantern endurance, Wind Bell for player tracking and a reusable nearby stagger, and Root Altar for three thorn shortcuts. Any restored ward unlocks the live M survey. Restore all three, return to the estate gate and escape. Unseen ward locations stay hidden.",
-    "Briarwake starts in a safe potting house with objectives and a planning survey. The hunt and timer begin only after crossing the garden gate.",
-    "Four connected Briarwake maze variants change routes, light, equipment, shelter availability, hearing and pursuit. Nightmare removes portable light and sprint and bolts 34 of 40 shelters. Every ward retains a nearby reachable refuge.",
-    "Thornkeeper senses use line of sight and corridor-distance hearing. Sustained noise can commit a hunt before sight; quiet escape leaves him following the last heard position, followed by a recovery interval. Saw windup and ward alarms provide a brief head start.",
-    "New Suno chainsaw idle and pursuit recordings, three bellow edits, outdoor night ambience, varied dirt footsteps and a dedicated Briarwake score. Six of ten new Suno downloads used; Blackwater audio retained.",
-    "Blackwater has 33 percent less walkable maze: 1878 cells in a 59 by 59 footprint, retaining loops and all difficulty routes.",
-    "A safe practice breaker in the entry room demonstrates the real interaction prompt without starting a hunt or advancing objectives.",
-    "Power upgrades the field map. First breaker: M toggles the layout. Second: live player location. Third: hunter sight and current movement-noise detection footprint plus exit. Unseen breaker positions stay hidden; opening the map does not pause the hunt.",
-    "Prominent RESUME button and Escape both resume the current run without resetting breakers, time, position or equipment. Escape pauses again during gameplay or staging.",
-    "Returning to title, retrying, or preparing another difficulty during an existing run shows: Warning, progress will not be saved. Explicit confirmation is required; Cancel or Escape keeps the current run.",
-    "Pause remains active while viewing objectives or settings. Leaving either returns to pause before resuming.",
-    "Saved Fullscreen, Borderless window and Windowed modes, resolution selection, V-Sync and frame limits. Display changes require confirmation and revert after 15 seconds, on cancellation or loss of focus.",
-    "Performance, Balanced and High presets. Balanced is the default: depth-aware haze reconstruction reduces rendering work while preserving fog density, flashlight strength and hunter behavior.",
-    "Reusable corridor distance fields eliminate repeated hearing searches while stationary within a cell. Hunter routes reuse their storage; creature limb animation and HUD styles avoid repeated temporary allocations. Locker preparation reuses one corridor graph.",
-    "Distant station lights are culled, with the hunter and audio remaining active. Menus stop rendering the hidden 3D world and use 30 FPS. Unfocused play pauses and uses a 15 FPS limit. Default gameplay cap is 60 FPS; V-Sync follows monitor refresh when enabled.",
-    "Display preferences and audio/control options persist. Settings use readable text, and opaque menu backgrounds prevent stale text when changing screens.",
-    "Hunter starts in the central maze, over 200 metres of corridors from entry. Opening patrol stays in that sector for Easy 75s, Normal 65s, Hard 55s and Nightmare 45s before stalking approaches begin. Rushing into its territory or triggering a breaker can still attract it.",
-    "Less punishing chases: lower pursuit speeds, shorter sight and sound memory, shorter corridor leashes and longer recovery between encounters. Hearing remains central to detection on every difficulty.",
-    "Real hunter screams carry long hall reverb and decaying reflections, with distant presence even behind walls. The low growl reaches farther and builds gradually as the hunter approaches, giving an advance warning before sight.",
-    "New deep infernal growl from the project owner's Suno library: bass-heavy organic throat, a 23-second seamless performance, subtle pitch movement and smooth proximity gain.",
-    "Five distinct scream calls rotate across alerts, hunts, breaker answers, hall echoes and apparitions. Every call plays before the deck repeats, with no back-to-back repeats across reshuffles.",
-    "Creature mouth animation follows the actual call duration. Real voice events replace each other cleanly; growl and chase layers duck during screams so the performance stays clear.",
-    "New creature masters are 48kHz mono, preloaded as uncompressed PCM for positional playback. Nine of the ten permitted Suno downloads are used, counting MP3/WAV companions.",
-    "Sustained loud movement can start a real sound hunt before line of sight on every difficulty. Hard and Nightmare can commit to ordinary audible walking around corners; crouching stays quieter.",
-    "Hearing, sound reaction time and pursuit distance scale by difficulty. Base route-distance leashes are Easy 14m, Normal 20m, Hard 28m and Nightmare 34m, with a capped 10% pressure increase.",
-    "Sound hunts trigger pursuit audio and a scream, chase the last actually heard location, and end in a finite search and recovery if the player escapes quietly. No live silent-player tracking or relocation while hunting.",
-    "Added Quit to desktop on the main title screen, releasing the cursor and closing the game directly.",
-    "Breakers trigger a loud spatial scream through the halls, a 3-4 second roar pause, and a physical investigation of the switch location. Quiet movement afterward does not reveal the player.",
-    "One real hunter makes paced stalking passes through nearby sectors instead of choosing destinations across the entire maze. Sight and actual noise still control pursuit; unseen hiding and broken contact grant recovery.",
-    "Distant sector changes require occlusion at multiple heights, at least 28 metres of separation, a 14-22 tile walking route, and a reachable unlocked refuge before the approach. No relocation during a chase, search, investigation, hiding or recovery.",
-    "Approach duration accounts for actual travel time. Failed safety checks skip distant placement. Patrol targets stay fixed during each pass instead of following the live player position.",
-    "Breaker refuges are selected by walking distance around walls, including on Nightmare. Locker totals and equipment restrictions remain difficulty-specific.",
-    "Launcher checks for newer releases on startup; Update & restart downloads, verifies and installs the full update.",
-    "Animated Brought to you by the PUG Empire screen follows Unity and precedes the title menu.",
-    "Four difficulty settings with distinct connected maze routes, lighting, flashlight endurance, sprint stamina, locker availability and hunter senses.",
-    "Nightmare removes flashlight and sprint, leaves 12 of 84 lockers usable, and caps pursuit below walking speed. Easy adds 24 shortcuts, 150 seconds of light, longer sprint and all lockers."
+    "Updated Windows alpha with Blackwater and Briarwake Estate. Corn Maze and Stone Labyrinth remain Coming Soon.",
+    "Host departure now clears the ended session and loads a fresh main menu. Normal host closure and forced host termination were tested with four native peers in both levels, with additional internet Relay disconnect checks.",
+    "Multiplayer maps now show small player color markers. The left-hand player legend holds names and matching colors; your row says YOU and your marker has a light outline. Live tracking still unlocks through objectives, and dead or escaped survivors no longer appear as active markers.",
+    "Co-op results show time below, objective discovery and activation times, and each survivor outcome. Parties retain their invite code, survivor identities and lobby between rounds until the host leaves.",
+    "Both levels use shared HUD and map layouts. Menus, long names, objective notes, results and settings have improved spacing, scrolling and text sizing. Native UI checks covered widescreen, ultrawide and 4:3 at enlarged HUD scale.",
+    "Updated Blender survivor models and animation, original environment props and monster rigs. Briarwake has dirt paths, detailed foliage, trees, roots, haze, a blood-moon sky and darker ambient lighting so the handheld lantern helps.",
+    "Difficulty scales maze sizes and objective placements are randomized. Objectives aid navigation and the final escape increases hunter pressure. Sight, footsteps, voices, hiding and broken contact remain part of detection.",
+    "Co-op hunt warnings are personal to the targeted survivor. Map tracking reveals connected survivors only after the tracking objective is restored.",
+    "Push-to-talk and open-mic crew voice use the existing host connection. Fullscreen, borderless and windowed modes, adjustable resolution, graphics presets and sound mixing are available in settings.",
+    "Windows only. The standard installer includes the game and launcher. Close the game, then choose Update & restart in the launcher. Early alpha, keyboard and mouse, no saved run progress."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.20.0/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 68848661,
-  "installerSha256": "56551148c0d356ed48c44f6d1554afa203c7c3a57d8eef2bcbfbfe80879f154e"
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 233494523,
+  "installerSha256": "a6ef8fe9961b4d91dcf381e79b7be770b2ee7d8738339b50abe18e2920e155cf"
 }
