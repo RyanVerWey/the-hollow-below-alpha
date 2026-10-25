@@ -1,0 +1,114 @@
+{
+  "images": [
+    {
+      "path": "images/four-worlds-visual-target.png",
+      "kind": "generated concept art",
+      "caption": "Four-world visual target. AI-generated concept art, not a screenshot or a promise of current game fidelity.",
+      "sha256": "2c44c9e2923d13cdc727fc147084a61546dcfa8849ebd4b11823bb08c33db24f",
+      "generator": "built-in image generation",
+      "downloadsFromSuno": 0
+    },
+    {
+      "path": "images/blackwater-current.png",
+      "kind": "actual native Windows capture",
+      "caption": "Current native corridor view: flashlight-lit station tiles recede into continuous depth haze. The station remains very dark; this view does not show machinery or room dressing clearly.",
+      "sha256": "0eaabb561a6bd39a94d974c18a1056d0f2ce90e3b5c4f4dfe77ccc47c73cce78",
+      "build": "Windows-v02215-worlds-review",
+      "assemblySha256": "dea1602a73fe65cb6e9c8127675591ad30ebe7688563d4962eb78459a019ca72",
+      "scope": "Actual world camera/materials/lights after one disclosed inspection setup, then70m actual controller movement and stationary pan. Production gameplay owner Update disabled; no hunt/input/FPS evidence from this recording."
+    },
+    {
+      "path": "images/hedge-current.png",
+      "kind": "actual native Windows capture",
+      "caption": "Native estate view after the ward-placement correction: a three-dimensional masonry lantern ward sits beside the clear approach, with hedge layers fading behind it. Foliage and stone remain dark. This is a current-state image, not final environment-art approval.",
+      "sha256": "bc14efa70fbfcac22af565f27d8839a0b0585f335b6db8d8b6fd90a6b9c49af6",
+      "build": "Windows-v02218-worlds-review",
+      "assemblySha256": "77bb13b778cc98e729b26ef3ddd1d009f63aae423887e6cf77d23b95ed4f91e9",
+      "scope": "Actual world camera/materials/lights after one disclosed inspection setup, then70m actual controller movement and stationary pan. Production gameplay owner Update disabled; no hunt/input/FPS evidence from this recording."
+    },
+    {
+      "path": "images/corn-current.png",
+      "kind": "actual native Windows capture",
+      "caption": "Native field route: an irrigation pump clearing, layered corn rows and distant farm silhouettes beneath the night sky. Blue haze reduces distant contrast, and the open ground still needs stronger visual dressing.",
+      "sha256": "f389cfb73f0d13a821c9b8f8999dc4071b46fd58954dc47bd6142f77c34a9557",
+      "build": "Windows-v02215-worlds-review",
+      "assemblySha256": "dea1602a73fe65cb6e9c8127675591ad30ebe7688563d4962eb78459a019ca72",
+      "scope": "Actual world camera/materials/lights after one disclosed inspection setup, then70m actual controller movement and stationary pan. Production gameplay owner Update disabled; no hunt/input/FPS evidence from this recording."
+    },
+    {
+      "path": "images/stone-current.png",
+      "kind": "actual native Windows capture",
+      "caption": "Native crypt corridor: warm near stone, irregular floor relief and cooler haze down the passage. The image remains dim. It demonstrates a corridor rather than the full ritual-room dressing.",
+      "sha256": "04585f1bf1c3b89347cb597e06d5c2af1ab0a9920b853009e3030f57f0366a3c",
+      "build": "Windows-v02215-worlds-review",
+      "assemblySha256": "dea1602a73fe65cb6e9c8127675591ad30ebe7688563d4962eb78459a019ca72",
+      "scope": "Actual world camera/materials/lights after one disclosed inspection setup, then70m actual controller movement and stationary pan. Production gameplay owner Update disabled; no hunt/input/FPS evidence from this recording."
+    },
+    {
+      "path": "images/farmer-original-direction.jpg",
+      "kind": "concept",
+      "caption": "Original supplied Farmer concept \u2014 illustration/reference, not a game screenshot. Target: concealed threatening face, layered workwear and a convincingly held chainsaw.",
+      "sha256": "7cbf67e0947b0e25b702d4ba8a88fd6c1c08b592f1c21a3a930886d79ca70337"
+    },
+    {
+      "path": "images/farmer-native19.png",
+      "kind": "current",
+      "caption": "Actual Windows native19 review capture of the new Farmer candidate. Woven mask and marked chainsaw grip are present; this capture precedes the boot and apron corrections frozen for native20. Art acceptance remains open.",
+      "sha256": "6bf0bb3098653570afc25fa88e751e3b5ba75dd62e06c8bf230c902c74cce766"
+    },
+    {
+      "path": "images/farmer20-corrected-source.png",
+      "kind": "concept",
+      "caption": "Blender source preview of the native20 Farmer correction, not in-game: continuous canvas bib over the coat, detached old straps removed and sole weights corrected. Native20 floor and garment recheck pending.",
+      "sha256": "fec1e283bdc5793586b571a378f461a5d5bbe571146cd07fb971ec0d1425a5fc"
+    },
+    {
+      "path": "images/stone-native19.png",
+      "kind": "current",
+      "caption": "Actual Windows native19 review capture of the carved Stone candidate. Recessed awake points are visible; a heavy chest shadow remains unresolved. This is a review scene, not a level screenshot or final art approval.",
+      "sha256": "e2f283444d03274caa873a569971713f22540077d692bf0c4d8753311846d819"
+    },
+    {
+      "path": "images/stone-source-direction.png",
+      "kind": "concept",
+      "caption": "Blender source preview of the carved mortuary-golem direction, not in-game. Unified weathered skull, uneven jaw and smaller burial wrap. Imported candidate is 94,570 source triangles; native contacts passed, final appearance review remains open.",
+      "sha256": "6b1deea8839898464df477cd1e8e2d1d02b6f7188f7dd5e6b13947b90de871e3"
+    },
+    {
+      "path": "images/corn-alien-husk-face.png",
+      "kind": "concept",
+      "caption": "Output-only Blender concept: crooked ribbed husk skull, deep vertical face cavity and recessed amber point. This replaces the rejected second-burlap-bag direction; it has not been imported into the game or independently approved.",
+      "sha256": "a7b59e9fbefb3c581490e2d955945f5056700aeef932e77903c0a78562a56d07"
+    },
+    {
+      "path": "images/corn-alien-husk-full.png",
+      "kind": "concept",
+      "caption": "Output-only Blender full-body concept: tall reed-like limbs, wooden harvest yoke, hooked tool and curled husk mantle. Long-limb animation, leaf construction and native readability still require refinement; not playable footage.",
+      "sha256": "decd2b306bb54638b94b92324714c2b12d772b9bd00de86fbeaa780603d11fc6"
+    },
+    {
+      "path": "images/survivor-0-current.png",
+      "kind": "actual native Windows review capture",
+      "caption": "Survivor1: actual native0.22.14 neutral-light review capture of the V3 candidate. A studio review image, not a world screenshot; final contextual animation acceptance remains open.",
+      "sha256": "efbeca0221b2bdd589dca93da6c400ffbe022ba93689e42c73b3692b1e349e8c"
+    },
+    {
+      "path": "images/survivor-1-current.png",
+      "kind": "actual native Windows review capture",
+      "caption": "Survivor2: actual native0.22.14 neutral-light review capture of the V3 candidate. A studio review image, not a world screenshot; final contextual animation acceptance remains open.",
+      "sha256": "7dd3a4d83354e2cd1a1d14d63511e3ddd237a52bdd61972601a98ce89a6d5f00"
+    },
+    {
+      "path": "images/survivor-2-current.png",
+      "kind": "actual native Windows review capture",
+      "caption": "Survivor3: actual native0.22.14 neutral-light review capture of the V3 candidate. A studio review image, not a world screenshot; final contextual animation acceptance remains open.",
+      "sha256": "e7146ad3d7b05c8ca40292561de4b0944780750965d6211d2fa8b4b8722964b1"
+    },
+    {
+      "path": "images/survivor-3-current.png",
+      "kind": "actual native Windows review capture",
+      "caption": "Survivor4: actual native0.22.14 neutral-light review capture of the V3 candidate. A studio review image, not a world screenshot; final contextual animation acceptance remains open.",
+      "sha256": "947b172fb82df9d4a1079128f3ebb758a44c60850480737e9120644c7641180d"
+    }
+  ]
+}

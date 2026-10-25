@@ -1,0 +1,287 @@
+{
+  "snapshotDate": "2026-10-25",
+  "originalTaskCount": 100,
+  "verifiedCount": 13,
+  "meaning": "A narrow accepted criterion does not certify the whole game or the latest combined binary. All other original goals remain open.",
+  "accepted": [
+    {
+      "id": "AC1",
+      "title": "Record native CPU/GPU/frame-time baselines",
+      "scope": "Independent native baseline acceptance:12 runs,36 repeatable rendering camera scenarios, actual drawn frames, honest median/p95/worst/memory/GPU limitations. Sustained gameplay, minimum-spec, displayed FPS and final art are separate.",
+      "evidence": [
+        {
+          "path": "docs/render-path-experiment.md",
+          "sha256": "b16bed79906eebd1014dc19bad746548c8d7ef76494e0c83cf09443a52245e89"
+        },
+        {
+          "path": "output/render-pipeline-review/independent-source-review.json",
+          "sha256": "64c8b213ca9822ce8e8797509d5c8c9dd48cd50d4d89589a08700daca14a715d"
+        },
+        {
+          "path": "output/render-ab-v0222-native/comparison.json",
+          "sha256": "5dd5f1af143e2eb46d4413d232af4f4179ec2fe4378498cd27134ff040316240"
+        },
+        {
+          "path": "output/render-ab-v0228-native/comparison.json",
+          "sha256": "773c028b9199f503c2f41ae4278456373b98b70e568dc574518596fa3c429383"
+        },
+        {
+          "path": "output/render-baseline-final-review/review.json",
+          "sha256": "d16747c5d2260ee819570489fabafbe9fbb6a82944e345955c49410ba22c081e"
+        }
+      ]
+    },
+    {
+      "id": "AC5",
+      "title": "Replace square ground fog with layered world haze",
+      "scope": "Independent strict native Normal/Forward haze acceptance across four70m actual-controller camera walks,172 unique sampled original frames; continuous world-depth haze with no obvious floor squares or billboard intersections. Full1780native/copy/source hashes stable before/after and parent fresh verified. Not Deferred/allquality/performance/environment-art approval; separate Hedge objective prop occlusion stays open.",
+      "evidence": [
+        {
+          "path": "output/haze-native-review/review.json",
+          "sha256": "fc7423e3ddf5293cbf221d1d1bc95e4dcdfdfdb4420a95062e2893bbf3fdc8d7"
+        },
+        {
+          "path": "output/haze-native-qc-inputs/full-native-index.json",
+          "sha256": "efd511e1201a758e1c83251719bccc6860d6494da8086f54cda61c0c2cce5bbe"
+        }
+      ]
+    },
+    {
+      "id": "AC41",
+      "title": "Correct survivor head, hand and body proportions",
+      "scope": "Independently accepted r10 actualnative adult proportions and lowerbody walk/run grounding/weighttransfer; upperbody, cloth and finalV3promotion are separate open criteria.",
+      "evidence": [
+        {
+          "path": "output/survivor-native-v0223-motion/native-survivor-report.json",
+          "sha256": "2b12c386217c462289cb42d5dbe5b423eea3431b8424125a49bc6f075a411b8a"
+        },
+        {
+          "path": "output/survivor-native-v0223-motion/independent-visual-review.json",
+          "sha256": "e83cfd281eca9ebabeeb401e9f6e80861d7de4bf9d2c14913a8d2645d80a12dd"
+        },
+        {
+          "path": "output/survivor-native-v0228-motion/independent-r10-review.json",
+          "sha256": "5eb8bea1881c058bca2c662417ad221f201b32f1a4b943f8ac9d3ceccd99454d"
+        }
+      ]
+    },
+    {
+      "id": "AC42",
+      "title": "Improve survivor facial materials and eyes",
+      "scope": "Independent R11 native facial/clothing criterion accepted individually by parent. Combined42-44 strict handoff rejected for Vivian hair44; no overall V3 promotion or47-50 acceptance.",
+      "evidence": [
+        {
+          "path": "output/survivor-native-v0223-motion/native-survivor-report.json",
+          "sha256": "2b12c386217c462289cb42d5dbe5b423eea3431b8424125a49bc6f075a411b8a"
+        },
+        {
+          "path": "output/survivor-native-v0223-motion/independent-visual-review.json",
+          "sha256": "e83cfd281eca9ebabeeb401e9f6e80861d7de4bf9d2c14913a8d2645d80a12dd"
+        },
+        {
+          "path": "output/survivor-native-material-review/review.json",
+          "sha256": "c05c1cc0074ace340cb7ceaabd81a722f20079889f4d9a6e67997fc5b303acff"
+        },
+        {
+          "path": "output/survivor-review/r11-parent-partial-decision.json",
+          "sha256": "ab0be01b457499af5d38228e7fe9dbb7d754bea9aa1ba7322e62ff11a8b8f364"
+        }
+      ]
+    },
+    {
+      "id": "AC43",
+      "title": "Improve clothing construction and silhouette",
+      "scope": "Independent R11 native facial/clothing criterion accepted individually by parent. Combined42-44 strict handoff rejected for Vivian hair44; no overall V3 promotion or47-50 acceptance.",
+      "evidence": [
+        {
+          "path": "output/survivor-native-v0223-motion/native-survivor-report.json",
+          "sha256": "2b12c386217c462289cb42d5dbe5b423eea3431b8424125a49bc6f075a411b8a"
+        },
+        {
+          "path": "output/survivor-native-v0223-motion/independent-visual-review.json",
+          "sha256": "e83cfd281eca9ebabeeb401e9f6e80861d7de4bf9d2c14913a8d2645d80a12dd"
+        },
+        {
+          "path": "output/survivor-native-material-review/review.json",
+          "sha256": "c05c1cc0074ace340cb7ceaabd81a722f20079889f4d9a6e67997fc5b303acff"
+        },
+        {
+          "path": "output/survivor-review/r11-parent-partial-decision.json",
+          "sha256": "ab0be01b457499af5d38228e7fe9dbb7d754bea9aa1ba7322e62ff11a8b8f364"
+        }
+      ]
+    },
+    {
+      "id": "AC44",
+      "title": "Improve hair volume and silhouettes",
+      "scope": "Independent strict native R12c hair acceptance: all40 original stills plus24 actual turn images; four side/rear volumes and closed hair/scalp faces pass. All183 candidate and2955 unique native records verified before/after, fresh parent verification before PM accept. No hair dynamics, interactive world or four-client acceptance inferred.",
+      "evidence": [
+        {
+          "path": "output/survivor-review/r12c-candidate-manifest.json",
+          "sha256": "db72822b56d37176903762588b92eafc1d1bdf65ac5a93fe84039754c20b7f80"
+        },
+        {
+          "path": "output/survivor-hair-native-review/review.json",
+          "sha256": "5f0fdc85cc6ec14e1df7ddfd8984b5abb573b4b862bf9ec586ca98f0af6cb187"
+        },
+        {
+          "path": "output/survivor-hair-native-review/post-review.json",
+          "sha256": "3caa9b537fb452c571e31946001a9a2e8fd71a821cd4bd2583c938022a087639"
+        }
+      ]
+    },
+    {
+      "id": "AC45",
+      "title": "Rework walking contact and weight transfer",
+      "scope": "Independently accepted r10 actualnative adult proportions and lowerbody walk/run grounding/weighttransfer; upperbody, cloth and finalV3promotion are separate open criteria.",
+      "evidence": [
+        {
+          "path": "output/survivor-native-v0223-motion/native-survivor-report.json",
+          "sha256": "2b12c386217c462289cb42d5dbe5b423eea3431b8424125a49bc6f075a411b8a"
+        },
+        {
+          "path": "output/survivor-native-v0223-motion/independent-visual-review.json",
+          "sha256": "e83cfd281eca9ebabeeb401e9f6e80861d7de4bf9d2c14913a8d2645d80a12dd"
+        },
+        {
+          "path": "output/survivor-native-v0228-motion/independent-r10-review.json",
+          "sha256": "5eb8bea1881c058bca2c662417ad221f201b32f1a4b943f8ac9d3ceccd99454d"
+        }
+      ]
+    },
+    {
+      "id": "AC46",
+      "title": "Rework running and deceleration",
+      "scope": "Independently accepted r10 actualnative adult proportions and lowerbody walk/run grounding/weighttransfer; upperbody, cloth and finalV3promotion are separate open criteria.",
+      "evidence": [
+        {
+          "path": "output/survivor-native-v0223-motion/native-survivor-report.json",
+          "sha256": "2b12c386217c462289cb42d5dbe5b423eea3431b8424125a49bc6f075a411b8a"
+        },
+        {
+          "path": "output/survivor-native-v0223-motion/independent-visual-review.json",
+          "sha256": "e83cfd281eca9ebabeeb401e9f6e80861d7de4bf9d2c14913a8d2645d80a12dd"
+        },
+        {
+          "path": "output/survivor-native-v0228-motion/independent-r10-review.json",
+          "sha256": "5eb8bea1881c058bca2c662417ad221f201b32f1a4b943f8ac9d3ceccd99454d"
+        }
+      ]
+    },
+    {
+      "id": "AC51",
+      "title": "Generate a distinct connected corn maze",
+      "scope": "Independently accepted current topology, four-spawn reachability and native controller-route corroboration. No world-art or balance acceptance implied.",
+      "evidence": [
+        {
+          "path": "output/expedition-review/manifest-capture-v0224.json",
+          "sha256": "6344c257448f0c2cea040bb50adcc373934e8ced8b6da4bd75ca69a96050eda6"
+        },
+        {
+          "path": "output/expedition-review/corn-stone-v0224-normal-visual-report.json",
+          "sha256": "53aef9871e53ce45355abdec8c11abef68f6a61e40d7ba5b736f5e60b04b7e5c"
+        },
+        {
+          "path": "output/qa-v0224-visible-corn-normal/runtime.log",
+          "sha256": "2f03e826e4a1452bf3df7c31bcabec87369fa5fbf2c508b925e8ed2642d3d8a6"
+        },
+        {
+          "path": "output/qa-v0222-visible-corn-nightmare/runtime.log",
+          "sha256": "36531a0cf375f507cb3c70494f49c5e486ea2dd9015e71d0ceadaed1e8b5a5dc"
+        },
+        {
+          "path": "output/expedition-review/topology-independent-acceptance.json",
+          "sha256": "8d33fce600887193568e4b6495aa5983334e3ca574de9cc509f3812985d59786"
+        }
+      ]
+    },
+    {
+      "id": "AC61",
+      "title": "Generate a distinct connected stone labyrinth",
+      "scope": "Independently accepted current topology, four-spawn reachability and native controller-route corroboration. No world-art or balance acceptance implied.",
+      "evidence": [
+        {
+          "path": "output/expedition-review/manifest-capture-v0224.json",
+          "sha256": "6344c257448f0c2cea040bb50adcc373934e8ced8b6da4bd75ca69a96050eda6"
+        },
+        {
+          "path": "output/expedition-review/corn-stone-v0224-normal-visual-report.json",
+          "sha256": "53aef9871e53ce45355abdec8c11abef68f6a61e40d7ba5b736f5e60b04b7e5c"
+        },
+        {
+          "path": "output/qa-v0224-visible-stone-normal/runtime.log",
+          "sha256": "777b81324c9dbe0a6cfdea39cf4cc0df96a5613f6283baa677b539b67255bece"
+        },
+        {
+          "path": "output/qa-v0222-visible-stone-nightmare/runtime.log",
+          "sha256": "27b61fea4dabdca8de30c77e9dad3d57dbb39feccd89b6336879b5571dd385c5"
+        },
+        {
+          "path": "output/expedition-review/topology-independent-acceptance.json",
+          "sha256": "8d33fce600887193568e4b6495aa5983334e3ca574de9cc509f3812985d59786"
+        }
+      ]
+    },
+    {
+      "id": "AC75",
+      "title": "Master and loop the new audio cleanly",
+      "scope": "",
+      "evidence": [
+        {
+          "path": "output/audio-nightmare-review/independent-review.json",
+          "sha256": "5a83dfb5f4d8fd24da06a75c2ba0ec8e8c019b97891011bdff0d0af2c6ba7ddc"
+        },
+        {
+          "path": "output/audio-nightmare-review/independent-numeric-checks.json",
+          "sha256": "20568d8ed0df1d2d6f8cd32a61a2dd179cce24222cf064e623dae43e985b0a17"
+        }
+      ]
+    },
+    {
+      "id": "AC76",
+      "title": "Make creature distance audible before visibility",
+      "scope": "Independently accepted calibrated native distance ramp and LOS-independent warning chain in all4 worlds. Subjective quality and native host-footstep correlation remain separate open criteria.",
+      "evidence": [
+        {
+          "path": "output/audio-native-review/native-v0223/results.json",
+          "sha256": "e8e49d87848a5d2cf1b815ef4fb954b21c49aa4c27e266bc9378299fe6399a1b"
+        },
+        {
+          "path": "output/audio-native-review/native-v0224-offline/results.json",
+          "sha256": "48b7065d0bd2a64566c526990340f1d4f0dca717ec3c145b3e651d796f7f4108"
+        },
+        {
+          "path": "output/audio-native-review/helper-freeze-offline.json",
+          "sha256": "f70cab9f7e1586f276368a5a2d67757df6da835ba1dc90a0800a045e802a34d0"
+        },
+        {
+          "path": "output/audio-native-review/independent-distance-acceptance.json",
+          "sha256": "8ead5725b26fbbca3be63ad0189afb669683f7a0539f071fa2f109dcd09fb46c"
+        }
+      ]
+    },
+    {
+      "id": "AC94",
+      "title": "Exercise every world in four-player sessions",
+      "scope": "Independent actual native four-world16peer Relay, shared objectives/hearing/voice/death/exit and connected clean lobby reset accepted; unassisted human play, avatar aesthetics and stress performance are separate.",
+      "evidence": [
+        {
+          "path": "output/coop-v0221-corn-relay-lifecycle/results.json",
+          "sha256": "8d72e68a6a71b810cf7f9f7ce75093efd53508bc17b101e4a47a7cfa1ba9d67c"
+        },
+        {
+          "path": "output/coop-v0221-stone-relay-lifecycle/results.json",
+          "sha256": "8d72e68a6a71b810cf7f9f7ce75093efd53508bc17b101e4a47a7cfa1ba9d67c"
+        },
+        {
+          "path": "output/world-lifetime-review/candidate-manifest.json",
+          "sha256": "cff3309a043b89071fece3118d108e0af92864b518e70b469ac4059494993818"
+        },
+        {
+          "path": "output/coop-native-acceptance/correction-reset/review.json",
+          "sha256": "790eb04dbe5f17ab727d269a9d2fa2a541a0f820e5c4ee22b78b2aeac64fd581"
+        }
+      ]
+    }
+  ]
+}
