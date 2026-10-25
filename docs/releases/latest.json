@@ -1,84 +1,85 @@
 {
   "schema": 1,
-  "version": "0.18.1",
-  "title": "The Hollow Below \u2014 Alpha",
+  "version": "0.18.2",
+  "title": "The Hollow Below \u00e2\u20ac\u201d Alpha",
   "executable": "The Hollow Below.exe",
-  "archiveSize": 70866776,
-  "archiveSha256": "4c602e6baebe81e015484b5dd56bcf451e2c92403fc4cb970eb32473d3978018",
+  "archiveSize": 70867625,
+  "archiveSha256": "3c1892a5acd4919d8e78a273e63328d8534dc839693fc5c3bb508188995ac7ff",
   "executableSha256": "40adc76c08a72722c42921f51052c36de1b8e8c75eb8f76d9007d9e5714ee84f",
   "chunks": [
     {
-      "path": "releases/0.18.1/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-01.bin",
+      "path": "releases/0.18.2/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-01.bin",
       "size": 8388608,
-      "sha256": "47e31680667dbf2964cdb43d78f8821b1fa9804d7bce8361f4afe0b26b39cd76"
+      "sha256": "fa93a892b20ec9116fc37031059810ac4bc2def45b2c5759129720ebcd2ca578"
     },
     {
-      "path": "releases/0.18.1/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-02.bin",
+      "path": "releases/0.18.2/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-02.bin",
       "size": 8388608,
-      "sha256": "a6b9239b549305ce30377f5a57f1fd06758b4b976e8057dec2bd69d4f532f1cc"
+      "sha256": "d0d4969c584961206ac58a772e2dfd5ff4be8b8dfbac9be13230345744681998"
     },
     {
-      "path": "releases/0.18.1/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-03.bin",
+      "path": "releases/0.18.2/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-03.bin",
       "size": 8388608,
-      "sha256": "f60c2b4b5092b56de6f826784fb01ee93d51deabe2366a1b69fa091ca5778871"
+      "sha256": "8a0fbf64c6d2122a45a82dda4acbac60271f1ddd99177b05fbb04cefded1d043"
     },
     {
-      "path": "releases/0.18.1/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-04.bin",
+      "path": "releases/0.18.2/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-04.bin",
       "size": 8388608,
-      "sha256": "7ae337999f7ce013483ec9ed1b418b7e494cbab54c45a078f781013e070b8cbe"
+      "sha256": "376b6b5181e74130587335a0b89daef0b1cacb1e0b5686e0c6274bd6353bd8dc"
     },
     {
-      "path": "releases/0.18.1/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-05.bin",
+      "path": "releases/0.18.2/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-05.bin",
       "size": 8388608,
-      "sha256": "a621554169df432e3afa053b65d0cb9192dd56ca83f8e69ff850a3a70d2a35d9"
+      "sha256": "63a25de9985ad28151260cfc3c4791279e5a22b82e0c3984886cd05b73fbb2f2"
     },
     {
-      "path": "releases/0.18.1/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-06.bin",
+      "path": "releases/0.18.2/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-06.bin",
       "size": 8388608,
-      "sha256": "fe8c3f94d93ae86d3c9b61eb0fca4752d74cde9c2dad50d26b4f425c671236ee"
+      "sha256": "14707b0fbeafd80502cbaf4b4ea2d67812e71edba8c445b59af03ee89f27f6fa"
     },
     {
-      "path": "releases/0.18.1/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-07.bin",
+      "path": "releases/0.18.2/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-07.bin",
       "size": 8388608,
-      "sha256": "5ffc18ab7c0ea5a5794bfa46af2c0d3959b2a3819ce2addf50227b605f1850ee"
+      "sha256": "fa4ce5f975ab2f7e451da9811eb4e38fd0de0015853d6e2e351f2b4643344db8"
     },
     {
-      "path": "releases/0.18.1/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-08.bin",
+      "path": "releases/0.18.2/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-08.bin",
       "size": 8388608,
-      "sha256": "7e181dc74e9c84b0c35a66c0dac3a1cd7368c706e6d34bf7078e64570d23fa72"
+      "sha256": "70976d9d85d15e72712b164d0b6a78ef5bdc6c3bc4f10c86b9799c8e51360f14"
     },
     {
-      "path": "releases/0.18.1/windows-09.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/windows-09.bin",
-      "size": 3757912,
-      "sha256": "d81a951fa276fb240ce7e7715a9b663e257bef91228a9ce5aff7ccff3c87f16c"
+      "path": "releases/0.18.2/windows-09.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/windows-09.bin",
+      "size": 3758761,
+      "sha256": "e6ffb364f5c7ef8d66b48eea185f26eddd0d9378c8f81fa6d8b94c449925a985"
     }
   ],
   "notes": [
+    "Windows-only release. Linux downloads have been withdrawn at the project owner's request.",
+    "Both levels now record objectives actually seen nearby or interacted with. Found objectives appear as numbered amber map markers and become green checked markers on completion. Unseen locations remain hidden, discoveries survive menus and hiding, and a fresh run clears them. Existing map unlocks and tracking rewards stay intact.",
+    "Blackwater and Briarwake share one UI system: matching HUD, objective checklist with Not Found / Found / Completed states, map panel and legend, planning survey layout, difficulty selection, pause actions, confirmation warnings, settings tabs and end-screen controls. TAB closes objectives and M closes planning surveys in both levels.",
     "Blackwater unpowered breakers now emit paired maintenance chimes within 28 metres of connected corridors. The sound grows with proximity, remains audible around corners, stops on restoration and pauses with the game. The safe practice cabinet teaches the same cue. Environmental chimes do not alert the hunter; restoring a real breaker still does.",
     "Blackwater corner scare cooldowns are roughly halved: Easy 60-100s, Normal 45-85s, Hard 40-72s, Nightmare 38-68s. Failed placements retry after 5-10s. Scares still require suitable corners and remain suppressed near the real hunter, during chases, while hiding, and in reduced-scare mode. Environmental bangs are a little more frequent.",
     "Briarwake Estate is now playable: a separate nighttime hedge maze with dim lanterns, drifting haze and an original Blender Thornkeeper carrying a chainsaw. Blackwater remains available.",
-    "Restore the Lantern Ward for stronger guide lights and doubled portable-lantern endurance, Wind Bell for player tracking and a reusable nearby stagger, and Root Altar for three thorn shortcuts. Any restored ward unlocks the live M survey. Restore all three, return to the estate gate and escape. Ward locations stay hidden.",
+    "Restore the Lantern Ward for stronger guide lights and doubled portable-lantern endurance, Wind Bell for player tracking and a reusable nearby stagger, and Root Altar for three thorn shortcuts. Any restored ward unlocks the live M survey. Restore all three, return to the estate gate and escape. Unseen ward locations stay hidden.",
     "Briarwake starts in a safe potting house with objectives and a planning survey. The hunt and timer begin only after crossing the garden gate.",
     "Four connected Briarwake maze variants change routes, light, equipment, shelter availability, hearing and pursuit. Nightmare removes portable light and sprint and bolts 34 of 40 shelters. Every ward retains a nearby reachable refuge.",
     "Thornkeeper senses use line of sight and corridor-distance hearing. Sustained noise can commit a hunt before sight; quiet escape leaves him following the last heard position, followed by a recovery interval. Saw windup and ward alarms provide a brief head start.",
     "New Suno chainsaw idle and pursuit recordings, three bellow edits, outdoor night ambience, varied dirt footsteps and a dedicated Briarwake score. Six of ten new Suno downloads used; Blackwater audio retained.",
-    "Pause offers a prominent Resume button and Escape resumes. Leaving or restarting a run warns that progress will not be saved and requires confirmation. Native Windows and Linux builds retain saved display modes, graphics options and frame limits.",
     "Blackwater has 33 percent less walkable maze: 1878 cells in a 59 by 59 footprint, retaining loops and all difficulty routes.",
     "A safe practice breaker in the entry room demonstrates the real interaction prompt without starting a hunt or advancing objectives.",
-    "Power upgrades the field map. First breaker: M toggles the layout. Second: live player location. Third: hunter sight and current movement-noise detection footprint plus exit. Breaker positions stay hidden; opening the map does not pause the hunt.",
+    "Power upgrades the field map. First breaker: M toggles the layout. Second: live player location. Third: hunter sight and current movement-noise detection footprint plus exit. Unseen breaker positions stay hidden; opening the map does not pause the hunt.",
     "Prominent RESUME button and Escape both resume the current run without resetting breakers, time, position or equipment. Escape pauses again during gameplay or staging.",
     "Returning to title, retrying, or preparing another difficulty during an existing run shows: Warning, progress will not be saved. Explicit confirmation is required; Cancel or Escape keeps the current run.",
     "Pause remains active while viewing objectives or settings. Leaving either returns to pause before resuming.",
-    "Native Windows and Linux x86_64 builds. Opening patrol routes return through the central nest between spokes to stay inside the intended opening sector.",
     "Saved Fullscreen, Borderless window and Windowed modes, resolution selection, V-Sync and frame limits. Display changes require confirmation and revert after 15 seconds, on cancellation or loss of focus.",
     "Performance, Balanced and High presets. Balanced is the default: depth-aware haze reconstruction reduces rendering work while preserving fog density, flashlight strength and hunter behavior.",
     "Reusable corridor distance fields eliminate repeated hearing searches while stationary within a cell. Hunter routes reuse their storage; creature limb animation and HUD styles avoid repeated temporary allocations. Locker preparation reuses one corridor graph.",
@@ -106,18 +107,7 @@
     "Nightmare removes flashlight and sprint, leaves 12 of 84 lockers usable, and caps pursuit below walking speed. Easy adds 24 shortcuts, 150 seconds of light, longer sprint and all lockers."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 57819162,
-  "installerSha256": "60ba507069eb90d103848c0cf9d1f552e9b2d0ffe3b7094bcbdf9572ca585465",
-  "linux": {
-    "version": "0.18.1",
-    "architecture": "x86_64",
-    "filename": "The-Hollow-Below-Alpha-0.18.1-Linux-x86_64.tar.gz",
-    "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.1/The-Hollow-Below-Alpha-0.18.1-Linux-x86_64.tar.gz",
-    "size": 68412146,
-    "sha256": "ce60ef31d1c3e227d9c5e4960c2a99727dff0696b1a02fade95acde7e7005c06",
-    "executable": "The Hollow Below.x86_64",
-    "executableSha256": "8027f7d1f9ae7dacfc826fb218adcc1ae7464af098a8a59397e7531c0f7ec0bc",
-    "buildDirectory": "Linux-v0.18.1"
-  }
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.18.2/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 57838340,
+  "installerSha256": "ec61701b48e6368360eb390e2807153f50185cf9483112001b28f45d3edd7dc1"
 }
