@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private 2–4 player co-op. Keyboard and mou
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.45/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.22.49/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.22.45)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.22.49)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -34,4 +34,4 @@ Report your build number, Windows version, what happened, and reproduction steps
 
 [Project board](https://github.com/users/RyanVerWey/projects/30/views/2) · [Milestones](https://github.com/RyanVerWey/the-hollow-below-alpha/milestones) · [Visual roadmap, concept art and actual screenshots](docs/roadmap/README.md).
 
-The current delivery focus is two playable levels, Blackwater and Briarwake Estate, with Corn Maze and Stone Labyrinth planned. The original task list remains historical context. The public alpha is 0.22.45. Concept art is labelled and is not gameplay.
+The current delivery focus is two playable levels, Blackwater and Briarwake Estate, with Corn Maze and Stone Labyrinth planned. The original task list remains historical context. The public alpha is 0.22.49. Concept art is labelled and is not gameplay.
