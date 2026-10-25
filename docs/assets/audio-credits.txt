@@ -202,3 +202,22 @@ gentle growl compression, controlled peaks, fades and loop crossfades.
 Source tracks were not published to the Suno feed. Edited masters are included
 in the public game. Nine downloaded files are counted against the owner's
 ten-file limit, including the automatic MP3 companions to requested WAVs.
+
+
+THE HOLLOW BELOW / SURVIVORS
+
+Adrian, Marcus, Vivian and Ellis are original adult characters for this game.
+Matching reference art, portraits and projected surface textures were generated
+with the project owner's Grok Imagine account.
+Reference: https://grok.com/imagine/post/6e7de42e-b295-486f-968b-964f0cd84eb0?scope=asset
+
+The reference image is concept/texture art, not a 3D asset or gameplay capture.
+Original articulated polygon meshes and props were authored in Blender 4.5.9.
+Generator: tools/build_survivor_models.py
+Editable source: ArtSource/Survivors/hollow-survivors.blend
+Provenance: docs/survivor-art-provenance.json
+Game/art rights reserved subject to provider terms.
+
+Unity Netcode for GameObjects, Unity Transport and Multiplayer Services are
+distributed under their included Unity licenses. Co-op uses Unity Authentication
+anonymous sign-in and Unity Relay. Solo play does not require online services.
