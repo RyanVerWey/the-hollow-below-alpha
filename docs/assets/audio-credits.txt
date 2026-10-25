@@ -371,12 +371,17 @@ The MakeHuman core assets are dedicated to the public domain under CC0.
 MPFB2 and Blender are authoring tools; their executable/source code is not
 distributed in the game. Their tool licenses do not replace the CC0 art license.
 
-Original modifications include clothing combinations and colors, optical frames,
-UV-baked facial references and 53-bone Idle/Walk/Run/Crouch animation cycles.
-Lobby portraits are renders of the actual current 3D characters.
-Generator: tools/build_survivors_v2.py
-Editable source: ArtSource/Survivors-v2/hollow-survivors-v2.blend
-Provenance and source hashes: docs/survivor-v2-provenance.json
+Current V5 models preserve the anatomical body, faces, hair and 58-bone bind
+skeleton from the V4 Blender source. Original modifications include fitted
+clothing, optical frames, sleeve weight cleanup, physical flashlight geometry,
+per-character anatomical finger grips and relaxed-hand poses. Walking/running
+presentation derives from CMU references with runtime foot planting and arm IK;
+see Motion-Capture-CMU.txt. No raw CMU capture library is distributed.
+Lobby portraits render these anatomical character faces.
+Editable source: ArtSource/Survivors-v5/hollow-survivors-v5.blend
+Authoring recipe: ArtSource/Survivors-v5/build_candidate.py
+Provenance and source/export verification: ArtSource/Survivors-v5.
+Earlier V2 source remains archived locally for provenance.
 Original game-specific work is reserved subject to provider terms; underlying
 CC0 assets retain their public-domain status.
 
