@@ -1,6 +1,6 @@
 # The Hollow Below
 
-Free Windows horror alpha. Solo and private 2–4 player co-op. Keyboard and mouse.
+Free Windows horror alpha. Solo and private 2Ã¢â‚¬â€œ4 player co-op. Keyboard and mouse.
 
 ## Play
 
