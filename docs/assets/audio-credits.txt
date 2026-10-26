@@ -354,6 +354,14 @@ Source tracks were not published to the Suno feed. Edited masters are included
 in the public game. Nine downloaded files are counted against the owner's
 ten-file limit, including the automatic MP3 companions to requested WAVs.
 
+Alpha 0.22.67 menu feedback, new three-download allowance:
+Hover: https://suno.com/song/64c4acbe-e6c0-4070-8b6c-5efffc7b23cb
+Confirm: https://suno.com/song/fe9fdb44-d5ed-4776-973a-6e55e4a62b70
+Two successfully retrieved WAV tracks, trimmed to short mono interface cues.
+The return cue reuses the confirm recording at a lower playback pitch.
+Original recordings, exact prompts and download accounting are preserved in
+ArtSource/Audio/MenuFeedback/provenance.json in the development project.
+
 
 THE HOLLOW BELOW / SURVIVORS
 
