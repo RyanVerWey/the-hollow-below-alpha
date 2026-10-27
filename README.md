@@ -64,4 +64,4 @@ Update every player in your group. Godot and Unity builds cannot share lobbies. 
 
 ## Godot alpha 0.23.9
 
-Update every player in your group. Godot and Unity builds cannot share lobbies. Godot uses a new settings folder; configure voice chat again if needed.
+Directional hunter audio, Blackwater hall echoes and searchable Blender supply cabinets. Stamina pills reduce sprint cost by 70% for 60 seconds; batteries triple light recharge for 60 seconds. Update every player in your party; incompatible versions cannot join. Existing game settings are preserved.
