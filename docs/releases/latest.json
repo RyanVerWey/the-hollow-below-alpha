@@ -1,334 +1,335 @@
 {
   "schema": 1,
-  "version": "0.23.15",
+  "version": "0.23.16",
   "title": "The Hollow Below / Alpha",
   "engine": "Godot 4.7.2 .NET",
   "executable": "The Hollow Below.exe",
-  "executableSha256": "0c1ec73d33deef2a2aeeca0e38399358e1bef69d564e40ac26ab46179a86fd97",
-  "archiveSize": 432056934,
-  "archiveSha256": "f51a9333129d70d919a2eed8a2a9a7107f7a1f20b7abcc368b8e299d42192880",
+  "executableSha256": "56b046ec60332e00e5ae804394a929ca196aa2af020433c8a17c259d734d282f",
+  "archiveSize": 432059987,
+  "archiveSha256": "a28af48b916b5f0d2aaba7d1e10f13e61016931969208d17a879622fc0d58441",
   "chunks": [
     {
-      "path": "releases/0.23.15/windows-01.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-01.bin",
+      "path": "releases/0.23.16/windows-01.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-01.bin",
       "size": 8388608,
-      "sha256": "5838e93e8ff0c1116a18ec8ca9ab2b3a1389644dba11ae6cee2edfe1c661392d"
+      "sha256": "1737103ed2a5c03ec20143f240487e7c6b97a7df9ac5b4c37eeb1d7cd78c9056"
     },
     {
-      "path": "releases/0.23.15/windows-02.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-02.bin",
+      "path": "releases/0.23.16/windows-02.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-02.bin",
       "size": 8388608,
-      "sha256": "ed4eb6ea78234536ee8fbe78b1f77061c24cf74228da8e6c5890abfd819bbe96"
+      "sha256": "03e3f1ba6763e2650bb6b4683f921761bda781b5b640aa29ec8be0c5fb37eb98"
     },
     {
-      "path": "releases/0.23.15/windows-03.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-03.bin",
+      "path": "releases/0.23.16/windows-03.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-03.bin",
       "size": 8388608,
-      "sha256": "ec1e680dfb6fbac706051da2d5685da530fbb569838f9f6634a0afa0801a4165"
+      "sha256": "b2ca72884236f25c1ed6d3e3794887a3985cc529a70fc01a3ba2968f5946e17b"
     },
     {
-      "path": "releases/0.23.15/windows-04.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-04.bin",
+      "path": "releases/0.23.16/windows-04.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-04.bin",
       "size": 8388608,
-      "sha256": "958da817dea7e54cc4e4eb6255841dc1b505466e4c1a56b6d94294c0f239446b"
+      "sha256": "ecd719c6279fbfb13097aa2c95cef16765b9488355a6b58ffd3bcc2eef768554"
     },
     {
-      "path": "releases/0.23.15/windows-05.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-05.bin",
+      "path": "releases/0.23.16/windows-05.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-05.bin",
       "size": 8388608,
-      "sha256": "136ac43adf5e018c7def79662ff36c38763923e2c7beb6d3d9f83f0141ca088a"
+      "sha256": "e709e68675ceb497fae47ec0ed72fd83693b695e42ea2d9a623ae6e86d31099d"
     },
     {
-      "path": "releases/0.23.15/windows-06.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-06.bin",
+      "path": "releases/0.23.16/windows-06.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-06.bin",
       "size": 8388608,
-      "sha256": "c2a77a1d593265628637b0bfa601c7f8eb8154b90f3327b9dc32563fc903c8ab"
+      "sha256": "1e041525952857401242108a973152276c8d8ddb901a31acc537c39e61bb3d46"
     },
     {
-      "path": "releases/0.23.15/windows-07.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-07.bin",
+      "path": "releases/0.23.16/windows-07.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-07.bin",
       "size": 8388608,
-      "sha256": "fabdd24dbb5c8f9f0b7f2cf0b167973ac7facfd7681a8664a245630aee97478a"
+      "sha256": "06aeb383361bbc5fc997808c340e94df55b71a91d3b7583eb307960ea98b327b"
     },
     {
-      "path": "releases/0.23.15/windows-08.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-08.bin",
+      "path": "releases/0.23.16/windows-08.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-08.bin",
       "size": 8388608,
-      "sha256": "b1d19baa7ead3842b0b2e65607e101fbfab036ebde9d5c05a88b639e04bbcece"
+      "sha256": "658412442d1f93675d890dae3bf5fabb9357f9d31926cd5b4f8ce3aa194de4db"
     },
     {
-      "path": "releases/0.23.15/windows-09.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-09.bin",
+      "path": "releases/0.23.16/windows-09.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-09.bin",
       "size": 8388608,
-      "sha256": "a73e498e845e4e497a1382aa65a1b187fec54aae72f106ac26b3b1347975ab60"
+      "sha256": "ab4e7a61f5a6a13d93716bee17a1137353440fb785c567286316672b06920326"
     },
     {
-      "path": "releases/0.23.15/windows-10.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-10.bin",
+      "path": "releases/0.23.16/windows-10.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-10.bin",
       "size": 8388608,
-      "sha256": "39df66d71d60c7d9f0f9d95707f8aa9bdf3f5f1e723fcfd5cb34e848ad5397b7"
+      "sha256": "e6c134f18530f8f933886f228daac2e72141504569ae288668c6668053836b47"
     },
     {
-      "path": "releases/0.23.15/windows-11.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-11.bin",
+      "path": "releases/0.23.16/windows-11.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-11.bin",
       "size": 8388608,
-      "sha256": "81ea0a896116039b8f364284b9864c4faa1f442e2c9183e26a958a436f2d0e3a"
+      "sha256": "be87c2874b4fa757adfe25a59d2591a71ba2a2aeb0d74b987b2400cb0581db6f"
     },
     {
-      "path": "releases/0.23.15/windows-12.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-12.bin",
+      "path": "releases/0.23.16/windows-12.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-12.bin",
       "size": 8388608,
-      "sha256": "65c4e254aa93d8be2f83b1b645420acf73f00f3466463f637a22bb4e617e8a33"
+      "sha256": "8a5e5a46041b5eece065a82fdae471d33dc067c2e53b4bc9cd6cd1b934fc5900"
     },
     {
-      "path": "releases/0.23.15/windows-13.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-13.bin",
+      "path": "releases/0.23.16/windows-13.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-13.bin",
       "size": 8388608,
-      "sha256": "e8eb5a27947de5a8e55f48ae824fb4c56f12311098c83f297b0d7946d83b48b0"
+      "sha256": "68b6307c46c96e1c65635c8caf647c0141ef39bc041ad3c38453035c980465a2"
     },
     {
-      "path": "releases/0.23.15/windows-14.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-14.bin",
+      "path": "releases/0.23.16/windows-14.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-14.bin",
       "size": 8388608,
-      "sha256": "8014bdcaabad78af2d507013c0764a0a43ca55a751a885fb0222888ae7612420"
+      "sha256": "bb3e8be6b797662840f04175b941e9c7def04c79469ea08b99521f3b2ac3c47e"
     },
     {
-      "path": "releases/0.23.15/windows-15.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-15.bin",
+      "path": "releases/0.23.16/windows-15.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-15.bin",
       "size": 8388608,
-      "sha256": "f930eea96c987e10ab6b89258d2c476b8cdd8c5ccd2c5207f50cee55c7575e15"
+      "sha256": "2c8a07a7fe573bf251b17917e22acea94f672411a0afebd50b23d9ad60c69b04"
     },
     {
-      "path": "releases/0.23.15/windows-16.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-16.bin",
+      "path": "releases/0.23.16/windows-16.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-16.bin",
       "size": 8388608,
-      "sha256": "a7902eca6255666a5dcddd7aa45bc66d93f12ba798dbc69d3cc3c69461c68594"
+      "sha256": "4688ddc41567e880678f970996c5d3e792dc44c4a8697b0a71ce62497565bc57"
     },
     {
-      "path": "releases/0.23.15/windows-17.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-17.bin",
+      "path": "releases/0.23.16/windows-17.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-17.bin",
       "size": 8388608,
-      "sha256": "979d6b72ea40cba85fe50af4742026b27fef18103bf53e15433a2b7ab7ec5b8b"
+      "sha256": "4b7b2cd01c130865cf4c388017dd339cf57ab2bfea1f7dbad5ef7ae6113410b9"
     },
     {
-      "path": "releases/0.23.15/windows-18.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-18.bin",
+      "path": "releases/0.23.16/windows-18.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-18.bin",
       "size": 8388608,
-      "sha256": "fe9d280008bcbcba857b783310c12cbf19429e63c9cc9044455dc92bd79b2018"
+      "sha256": "f3ef7d51477e92b980e0d6fdee2939afac52bd8d4dd91be5964cc3c05838f252"
     },
     {
-      "path": "releases/0.23.15/windows-19.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-19.bin",
+      "path": "releases/0.23.16/windows-19.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-19.bin",
       "size": 8388608,
-      "sha256": "d860474cf4405a486a6c2c9b0511418271603bc19b193d08273559ae25c028d8"
+      "sha256": "5499ef60e2a8679b851f14d1d786bf677d9e42471f80fda9e86410ecc500e748"
     },
     {
-      "path": "releases/0.23.15/windows-20.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-20.bin",
+      "path": "releases/0.23.16/windows-20.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-20.bin",
       "size": 8388608,
-      "sha256": "851902676adf3c914d47bb9362bc06a29c0145fc9c9e09123d770f34844a7d33"
+      "sha256": "5dacec3e67afa6c2ca315a52620bc731c656fbf0beceb6de79f8e03a7e67eb55"
     },
     {
-      "path": "releases/0.23.15/windows-21.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-21.bin",
+      "path": "releases/0.23.16/windows-21.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-21.bin",
       "size": 8388608,
-      "sha256": "0443f88d195aec0cc8b31d965147550441f9e98fe4b80804ff38c962133693f3"
+      "sha256": "7d2625adb0f7709f4c6bc01417632097602db3792e11326f2740ca9b92c819a0"
     },
     {
-      "path": "releases/0.23.15/windows-22.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-22.bin",
+      "path": "releases/0.23.16/windows-22.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-22.bin",
       "size": 8388608,
-      "sha256": "db840948585d0f5e31972b730db8684d218830f179557b13137b195faf890d78"
+      "sha256": "214cdd0f4bbce0cc7b5171a56eddde7a91a5c8cf8a17c5f005bb3fde890f0c1c"
     },
     {
-      "path": "releases/0.23.15/windows-23.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-23.bin",
+      "path": "releases/0.23.16/windows-23.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-23.bin",
       "size": 8388608,
-      "sha256": "e96022301e8b7ee087195a18b7f883786b92f758a869f89a37b59367945631ff"
+      "sha256": "73738fbd10765b752c3930d7a4b763695a9661f24132e3761802a3965a1ec213"
     },
     {
-      "path": "releases/0.23.15/windows-24.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-24.bin",
+      "path": "releases/0.23.16/windows-24.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-24.bin",
       "size": 8388608,
-      "sha256": "bea599e16f3acce8dc1aa873bf66837d38621b872c7795bdb18c3c09e1772f0c"
+      "sha256": "96f6bd42ba7f4bbac9db59a48292eb5b34b235a433b6732ae2849af051354f55"
     },
     {
-      "path": "releases/0.23.15/windows-25.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-25.bin",
+      "path": "releases/0.23.16/windows-25.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-25.bin",
       "size": 8388608,
-      "sha256": "4e63c14abd4ec65908d16fe7d4fb507ce2e015182c7e75d5367566c02b8c1999"
+      "sha256": "322af40e955a0ae9d8243c4f0b4b53f9479c5ae610f3c0402e367d3599ea9c41"
     },
     {
-      "path": "releases/0.23.15/windows-26.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-26.bin",
+      "path": "releases/0.23.16/windows-26.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-26.bin",
       "size": 8388608,
-      "sha256": "de457518518f1b7d6df09ed58eb85b76218bc590e7afcc4c283def2decfe9347"
+      "sha256": "e1697c1adf4e5a208d5f4eb7dabe0fa28e07f4df74bd5215a53b41693fdd0047"
     },
     {
-      "path": "releases/0.23.15/windows-27.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-27.bin",
+      "path": "releases/0.23.16/windows-27.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-27.bin",
       "size": 8388608,
-      "sha256": "c759d942c5f808023d1653829f0f2bbd535f0b3869065218ca30de5ad816f89c"
+      "sha256": "f03a3eecaf124edee26f397ea0e9d05013c302282a79a4a06b471fdfc779558d"
     },
     {
-      "path": "releases/0.23.15/windows-28.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-28.bin",
+      "path": "releases/0.23.16/windows-28.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-28.bin",
       "size": 8388608,
-      "sha256": "c39ce12f17fa6341c3a4566aedf4a01b4c589886be957b7f23ac13a2c8f7b807"
+      "sha256": "572cc284249cde52c927d7a7b58fc6ba6d57bb56d1e7b15febc05e48ffd425ec"
     },
     {
-      "path": "releases/0.23.15/windows-29.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-29.bin",
+      "path": "releases/0.23.16/windows-29.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-29.bin",
       "size": 8388608,
-      "sha256": "c1151038f6e4c962e87dfccd7cb448f144d8436395c806c7af2429cb16eb90ec"
+      "sha256": "775883780a5c4d75f1b0f62c32173eaee1c6e4ea47e86875f2a82d9ccef66f52"
     },
     {
-      "path": "releases/0.23.15/windows-30.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-30.bin",
+      "path": "releases/0.23.16/windows-30.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-30.bin",
       "size": 8388608,
-      "sha256": "18febf0faa8e81f0fc898c379785c3f13b08aa892c1ea024c4ee4ca3d761a1bd"
+      "sha256": "2c93901e91f6759353e9cc860f4e4a818f7a6ee6cfa5496d73115f37f42e9e2b"
     },
     {
-      "path": "releases/0.23.15/windows-31.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-31.bin",
+      "path": "releases/0.23.16/windows-31.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-31.bin",
       "size": 8388608,
-      "sha256": "85dd9533e1b77fabb5bd2b52ef5e5c29b76ff4dd611aa103fad59a7cbbd6bb6f"
+      "sha256": "17deda3b937907eeb9e6c14e630e88b8cf0644abd9a8ff165df40d287216ab41"
     },
     {
-      "path": "releases/0.23.15/windows-32.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-32.bin",
+      "path": "releases/0.23.16/windows-32.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-32.bin",
       "size": 8388608,
-      "sha256": "8d5b7fb47767b82680a794b32a4e43a1d4084fab9ef2ea1e032f3dc60a1b82f2"
+      "sha256": "ea978c15e7b27d2e12e99bc29e75186bf1f2b62896c789b1d7aecfdde6bcaa41"
     },
     {
-      "path": "releases/0.23.15/windows-33.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-33.bin",
+      "path": "releases/0.23.16/windows-33.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-33.bin",
       "size": 8388608,
-      "sha256": "e2de0a5935ecc6db2d5a038cb080ccf3d6c5f9944fdbaa000f64acc51e0867e3"
+      "sha256": "28ad1a6a49f4ba93d6b8dab4037abdfa37784fa70af827a6244bfdad17c2423f"
     },
     {
-      "path": "releases/0.23.15/windows-34.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-34.bin",
+      "path": "releases/0.23.16/windows-34.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-34.bin",
       "size": 8388608,
-      "sha256": "6ac895c1debbf154f33f4da1226eb4e417bb1de7952c1439f234d03622b5a9ba"
+      "sha256": "1c66c4222727f61f22dae9fb0e411793cacc5d97def101680e6082705d03f682"
     },
     {
-      "path": "releases/0.23.15/windows-35.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-35.bin",
+      "path": "releases/0.23.16/windows-35.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-35.bin",
       "size": 8388608,
-      "sha256": "8eda0681bccc103717acee3afdeb8e93aa663e73c9c7021e6342c41a7be42085"
+      "sha256": "caf535f72edc058cc3f28db2cc9766638e33df7ac3299b79124862b3f5647b65"
     },
     {
-      "path": "releases/0.23.15/windows-36.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-36.bin",
+      "path": "releases/0.23.16/windows-36.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-36.bin",
       "size": 8388608,
-      "sha256": "1a86404046f15b7210bb0b8c4daea8fa9ff9168b797c8a823ba73fc314656f98"
+      "sha256": "b294b374ec69db35a67fac1503062c4e10d75fb0099643fcc4b296cf3d90ea2d"
     },
     {
-      "path": "releases/0.23.15/windows-37.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-37.bin",
+      "path": "releases/0.23.16/windows-37.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-37.bin",
       "size": 8388608,
-      "sha256": "1169baec25c11ed968c35f1129a2faf3e3e46364b52f321891f10499b04b3eed"
+      "sha256": "6a2d7111c285fe0e13f9ec66fa1eed87da0671be6ffa425b9f196f54f5051a38"
     },
     {
-      "path": "releases/0.23.15/windows-38.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-38.bin",
+      "path": "releases/0.23.16/windows-38.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-38.bin",
       "size": 8388608,
-      "sha256": "a0a85cebf543cfaf98d961f2600f90169e0b61d46a5d526db1e21d9bc8c756e7"
+      "sha256": "f55088a5c7d7a143dc4bd24b24c9943b00ee8b91c5ea4548315b4716619892c4"
     },
     {
-      "path": "releases/0.23.15/windows-39.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-39.bin",
+      "path": "releases/0.23.16/windows-39.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-39.bin",
       "size": 8388608,
-      "sha256": "f57bfc09690f6266c89ff1c859d52d00c11cc81f3eee6c8e5afedad58cf33ca5"
+      "sha256": "f3a159b883f6f89c312cfeb3395941804e48fe0cb3a993d98f0215dd5a61d56c"
     },
     {
-      "path": "releases/0.23.15/windows-40.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-40.bin",
+      "path": "releases/0.23.16/windows-40.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-40.bin",
       "size": 8388608,
-      "sha256": "87462e6571fac367f9bc547ddfab1857e16e90161b85cbf669ecf22b904f3828"
+      "sha256": "243a9cc1b4d6618871b2097cad8c3cfd53d110549db8dbc9ce4bad396f00764c"
     },
     {
-      "path": "releases/0.23.15/windows-41.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-41.bin",
+      "path": "releases/0.23.16/windows-41.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-41.bin",
       "size": 8388608,
-      "sha256": "c48586b35921df98ba442475058335f4a8f56ce814c89bf29e3624e2b1959659"
+      "sha256": "be3c0e2dec5aa87d9e784587b95968bcb58bd6722268a396943e668f31168a9f"
     },
     {
-      "path": "releases/0.23.15/windows-42.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-42.bin",
+      "path": "releases/0.23.16/windows-42.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-42.bin",
       "size": 8388608,
-      "sha256": "3fbf43f11cbb7e10f177d43a605f0fb7b2dca80bb8b671b805f56efd9a0b6512"
+      "sha256": "36e57c6b6a2edfe5b5941f9f37e4656dc150ca52942a54ab5d4f54cde245a9a9"
     },
     {
-      "path": "releases/0.23.15/windows-43.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-43.bin",
+      "path": "releases/0.23.16/windows-43.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-43.bin",
       "size": 8388608,
-      "sha256": "a130f3ee9bca37a8a93ef4dbd445cb710cacba7077211178985a72e16a87b364"
+      "sha256": "c6fd56843679c06464008cf2520409423c8f7113817c26ef91f9a493723186cc"
     },
     {
-      "path": "releases/0.23.15/windows-44.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-44.bin",
+      "path": "releases/0.23.16/windows-44.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-44.bin",
       "size": 8388608,
-      "sha256": "7866280071f7c93ab45c4cb5d05b1fa9aca8ebf20c6725d4943c71ea7b364aba"
+      "sha256": "95ebfe337b40116abd9de387d3b72c5b99aed16b2ff6b3ab9974c5db0277a52c"
     },
     {
-      "path": "releases/0.23.15/windows-45.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-45.bin",
+      "path": "releases/0.23.16/windows-45.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-45.bin",
       "size": 8388608,
-      "sha256": "68631c2f2b2afa8dff0c62874e344c6757c0954ea7b0942cdcda767bc9f34c2f"
+      "sha256": "2fece7ee24dc1ceeaf14178728d26fc72eb74a2be94f66cabb45ed3198211d9e"
     },
     {
-      "path": "releases/0.23.15/windows-46.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-46.bin",
+      "path": "releases/0.23.16/windows-46.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-46.bin",
       "size": 8388608,
-      "sha256": "6a074b6f9aa833974051d5fb64e5c8d14ebaea6ee9980e022315fb3fc3a5c46b"
+      "sha256": "b04350eb7f390115d33660f03f99c9580b09be121e753a88e29513d4aefd9b68"
     },
     {
-      "path": "releases/0.23.15/windows-47.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-47.bin",
+      "path": "releases/0.23.16/windows-47.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-47.bin",
       "size": 8388608,
-      "sha256": "e92965b03b057792241cbe1227359649f7b4add0c421938b64b8bed1c89730eb"
+      "sha256": "90066db461e510fb37090adf5bc151c4cb7f152cb8df63d255b83ae4f8967a19"
     },
     {
-      "path": "releases/0.23.15/windows-48.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-48.bin",
+      "path": "releases/0.23.16/windows-48.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-48.bin",
       "size": 8388608,
-      "sha256": "9795f44e0b6b34c6f70bb8196a5522719d9d07ffaddc7001495ccb49973cc43c"
+      "sha256": "56b4c8c36d68fc8dce621f0eac4d2e0d4a2b4c260be084c19be14c3d5b7edf72"
     },
     {
-      "path": "releases/0.23.15/windows-49.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-49.bin",
+      "path": "releases/0.23.16/windows-49.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-49.bin",
       "size": 8388608,
-      "sha256": "227fd42378a0e36f267d7ffc4df875bc5d2094a0fc3ed536c35078da1449f142"
+      "sha256": "95b8c34354270d137fe68e62aacd6dc6c3ccdefb403854d9a20bcc47000def44"
     },
     {
-      "path": "releases/0.23.15/windows-50.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-50.bin",
+      "path": "releases/0.23.16/windows-50.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-50.bin",
       "size": 8388608,
-      "sha256": "c535d49c45a5c079d42bb0a2716a42a6b491d8a46c01982d6bf6021086dd4ae2"
+      "sha256": "f2d169703af7e40336c0de723e97cf6d575b150cf061ea24c7e7c0cd470b3661"
     },
     {
-      "path": "releases/0.23.15/windows-51.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-51.bin",
+      "path": "releases/0.23.16/windows-51.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-51.bin",
       "size": 8388608,
-      "sha256": "88f430648104b7afa53e9083d69d6d6624a6160a9cfd84edf30db4f0bd88fdf8"
+      "sha256": "7abb8df1b4df5c97c59ddd3a498f0226a76ffbee6832675ecf8ddb79bf5d62d1"
     },
     {
-      "path": "releases/0.23.15/windows-52.bin",
-      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/windows-52.bin",
-      "size": 4237926,
-      "sha256": "5509bf7d99f8df294ef8774ba19d7a2d9777ae75217d58385da9c47f157de7e4"
+      "path": "releases/0.23.16/windows-52.bin",
+      "url": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/windows-52.bin",
+      "size": 4240979,
+      "sha256": "89c90e4ac1557fa34e0164400b8e96d17004e93d7179e4bfd2a341a51f66d855"
     }
   ],
   "notes": [
-    "Player footstep playback is reduced by 50% in Blackwater and Briarwake, including walking, sprinting and crouching.",
-    "Movement noise used by hunter detection is unchanged, as are hunter sounds, breaker audio, voice chat and other game audio.",
-    "Windows 10/11 x64. Close the game, choose Check for updates, then Update & restart. Existing settings are preserved."
+    "Breaker and ward locations now use a saved randomized rotation on Easy, Normal, Hard and Nightmare. Each objective uses all eight of its possible sites before repeating; all 24 sites participate in an eight-run cycle.",
+    "Consecutive runs avoid the same objective site even at cycle boundaries. Each level and difficulty keeps its own rotation, which survives restarting the game.",
+    "Solo new games, restarts and co-op host starts use the rotation. Peers reproduce the host plan from its shared seed; reachability, objective spacing and map discovery rules remain intact.",
+    "Windows 10/11 x64. Close the game, choose Check for updates, then Update & restart. Existing settings and quieter player footsteps are preserved."
   ],
   "installerFilename": "The-Hollow-Below-Alpha-Setup.exe",
-  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/The-Hollow-Below-Alpha-Setup.exe",
-  "installerSize": 394603699,
-  "installerSha256": "b01b202dacd07ec7b9253bfe773686a250d022493f29208a49936779a9c31a81",
-  "pckSha256": "4a59ed6dbe1f186e57d8629153fe2fb1ba9ea939eacde5d7c05d3c8272af2ab7"
+  "installerUrl": "https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/The-Hollow-Below-Alpha-Setup.exe",
+  "installerSize": 394626262,
+  "installerSha256": "f99dfe74fbba93b2706bf16fadd2a49778415b14390a71a508e2b5f4309fea87",
+  "pckSha256": "d2c1e74b85f30499b2955f6a12691ea96945a3975174a7123a03b1efec043f56"
 }

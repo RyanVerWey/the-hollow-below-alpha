@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.15/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.16/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.15)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.16)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -95,3 +95,7 @@ Original Blender passage details add service gauges, valves and drains to Blackw
 ## Godot alpha 0.23.15
 
 Player footstep playback is half its previous gain for walking, sprinting and crouching in both levels. Hunter detection still uses the same movement noise and hearing rules. Other audio and existing settings are unchanged.
+
+## Godot alpha 0.23.16
+
+Objectives use saved randomized rotations in both levels on every difficulty. Each objective uses all eight of its sites before repeating, with no back-to-back repeat at a cycle boundary. Independent rotation histories survive restarting the game. Solo new games, restarts and co-op host starts use fresh shared seeds; reachability, spacing, map discoveries and quieter player footsteps are preserved.
