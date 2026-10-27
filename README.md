@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.12/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.13/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.12)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.13)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -83,3 +83,7 @@ Close the game, then choose **Check for updates** and **Update & restart** in th
 The Reaver has massive footfalls, a deep demonic hunt scream and animated black smoke. Footsteps and screams retain their recorded pitch, move with the creature and echo through Blackwater. Hunters recognize exposed survivors farther along clear corridors, including deliberate approaches during entry protection. Safe rooms, walls and uncompromised hiding still protect players. Co-op synchronizes each survivor’s portable-light state for host-owned sight detection.
 
 Close the game, then choose **Check for updates** and **Update & restart** in the launcher. Your settings are preserved. Everyone in your co-op group should update.
+
+## Godot alpha 0.23.13
+
+Blackwater has a wall-integrated surface exit with framed inward-opening doors, a recessed service stair and fixed identification plates. Escape prompts and host validation share the same doorway bounds. Verified across all difficulties, with native collision/GPU checks, four-player regression tests and a private installer upgrade. Everyone in a group should update; existing settings are preserved.
