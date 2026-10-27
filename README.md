@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.17/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.18/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.17)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.18)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -103,3 +103,7 @@ Objectives use saved randomized rotations in both levels on every difficulty. Ea
 ## Godot alpha 0.23.17
 
 The Repeater uses its pre-wet dry footsteps again. The Reaver uses six single-impact owner-recorded heavy contacts with a diffuse dark hall return. Objective screams carry loudly from each hunter’s real direction. Station props fit their full footprint and have matching colliders; spools and puddles stay clear of walls. Saved objective rotation and quieter player footsteps are preserved. No new Suno downloads.
+
+## Godot alpha 0.23.18
+
+Lobby voice reaches the whole crew without a 3D listener. During a run, voices pan from player positions and fade smoothly over 40 metres. Compact voice packets, burst-friendly admission, jitter buffering and Opus concealment improve simultaneous speech. Quiet speech is leveled and the voice mix is limited. Settings include an input meter and an explicit private 20-second microphone test; choose your input and enable the microphone, then use PTT or open mic. F8 mutes. Transmitted active-survivor speech attracts hunters; private tests never do. Saved settings, objective rotation, hunter sounds and prop placement are preserved. No Suno downloads.
