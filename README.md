@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private 2Ã¢â‚¬“4 player co-op. Keybo
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.8/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.9/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.8)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.9)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -59,5 +59,9 @@ Update every player in your group. Godot and Unity builds cannot share lobbies. 
 Update every player in your group. Godot and Unity builds cannot share lobbies. Godot uses a new settings folder; configure voice chat again if needed.
 
 ## Godot alpha 0.23.8
+
+Update every player in your group. Godot and Unity builds cannot share lobbies. Godot uses a new settings folder; configure voice chat again if needed.
+
+## Godot alpha 0.23.9
 
 Update every player in your group. Godot and Unity builds cannot share lobbies. Godot uses a new settings folder; configure voice chat again if needed.
