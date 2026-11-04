@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.24/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.25/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.24)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.25)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -143,3 +143,15 @@ The Widow keeps pursuing during bite and grab windup and recovery. Strikes retai
 Breaker buzzing now loops continuously in the audio mixer. Ground and hunter sounds preload during level loading to remove first-use audio loads while walking. Ambient music remained continuous in local tests; further player feedback on that reported stutter is welcome.
 
 Everyone in a party should update to 0.23.24. Close the game and choose Check for updates, then Update & restart in your existing launcher. Settings are preserved.
+
+## Godot alpha 0.23.25
+
+Survivors use Auto-Rig Pro retargeted walking, jogging, running, crouching, directional movement, equipment grips and hiding clips. Animation timing follows actual movement and imported loops no longer jump by one frame.
+
+Repeater, Reaver and Thornkeeper use retargeted locomotion and keep stepping during pursuing attacks. Footstep sounds follow their animated foot contacts, preserving each hunter's existing recordings.
+
+Every hunter uses generated Godot navigation meshes and A* floor routes. The Widow retains wall crawling. The broad Reaver uses wider corner clearance and yields into side passages; narrow passages coordinate mixed groups of hunters.
+
+Remote survivors step into and back out of hiding spots without copying the first-person camera's 180-degree turn. Equipment remains in their hands when its light is switched off.
+
+Everyone in a party should update to 0.23.25. Close the game and use Check for updates, then Update & restart in the existing launcher. Settings are preserved.
