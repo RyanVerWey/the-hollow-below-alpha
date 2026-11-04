@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.23/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.24/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.23)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.24)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -133,3 +133,13 @@ The Widow has a larger body and much longer, bent legs, staggered eight-leg step
 Hunters use reachable approaches around hiding sheds, avoid climbing into shed roofs and cannot be swept inside by opening doors. Narrow passages use yielding to prevent hunter deadlocks.
 
 Everyone in a party must update to 0.23.23 for synchronized spider fold and wall-spread poses. Close the game and choose Check for updates, then Update & restart in your existing launcher. Settings are preserved.
+
+## Godot alpha 0.23.24
+
+The giant Widow now rounds floor bends more smoothly while retaining its wall crawling and size. Leg folds anticipate corners and the rear legs keep stepping during moving attacks.
+
+The Widow keeps pursuing during bite and grab windup and recovery. Strikes retain their visible windup, committed lunge and contact window, so dodging remains possible. Multiple hunters coordinate routes and passage yielding around sheds.
+
+Breaker buzzing now loops continuously in the audio mixer. Ground and hunter sounds preload during level loading to remove first-use audio loads while walking. Ambient music remained continuous in local tests; further player feedback on that reported stutter is welcome.
+
+Everyone in a party should update to 0.23.24. Close the game and choose Check for updates, then Update & restart in your existing launcher. Settings are preserved.
