@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.22/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.23/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.22)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.23)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -123,3 +123,13 @@ Briarwake has a new Suno nighttime ambience loop, darker neutral mist, and grass
 ## Godot alpha 0.23.22
 
 Briarwake adds the Widow spider with tall leg arches, wall crawling, a charging bite and a rearing grab. New positional spider and chainsaw audio, weathered wards, overhead branches and ground details accompany improved multi-hunter traffic. Close the game and choose **Check for updates → Update & restart** in your existing launcher. Everyone in the party must update for the new wall-pose synchronization; settings are preserved.
+
+## Godot alpha 0.23.23
+
+Briarwake hunters have distinct new vocal recordings: the Thornkeeper bellows and the Widow shrieks. Calls carry through the maze, alternate takes and return during extended pursuits. Dry grass-and-soil skitters replace the Widow’s tonal creaking.
+
+The Widow has a larger body and much longer, bent legs, staggered eight-leg stepping, compact turns and sustained wall pursuit. Skitters follow its animated foot contacts, with separate soil and hedge sounds. Bite/grab damage lines up with fang contact and remains visible before results or spectating.
+
+Hunters use reachable approaches around hiding sheds, avoid climbing into shed roofs and cannot be swept inside by opening doors. Narrow passages use yielding to prevent hunter deadlocks.
+
+Everyone in a party must update to 0.23.23 for synchronized spider fold and wall-spread poses. Close the game and choose Check for updates, then Update & restart in your existing launcher. Settings are preserved.
