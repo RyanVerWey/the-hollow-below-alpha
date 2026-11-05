@@ -5,9 +5,9 @@ Free Windows horror alpha. Solo and private co-op for up to four players. Keyboa
 ## Play
 
 - **[Official playtest website](https://ryanverwey.github.io/the-hollow-below-alpha/)**
-- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.25/The-Hollow-Below-Alpha-Setup.exe)**
+- **[Download the Windows installer](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/download/v0.23.26/The-Hollow-Below-Alpha-Setup.exe)**
 
-- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.25)
+- [Release files and notes](https://github.com/RyanVerWey/the-hollow-below-alpha/releases/tag/v0.23.26)
 
 On Windows, open the installer, choose **Install**, then open the launcher and choose **Play game**. Desktop and Start menu shortcuts are included. The launcher checks for updates when opened. Choose **Update & restart** to download, verify and install a newer release, then reopen the launcher. Close the game first. Installed play works offline. Launchers from before this feature need the latest full installer once. Portable copies are updated manually. No administrator access or game development tools are required.
 
@@ -155,3 +155,17 @@ Every hunter uses generated Godot navigation meshes and A* floor routes. The Wid
 Remote survivors step into and back out of hiding spots without copying the first-person camera's 180-degree turn. Equipment remains in their hands when its light is switched off.
 
 Everyone in a party should update to 0.23.25. Close the game and use Check for updates, then Update & restart in the existing launcher. Settings are preserved.
+
+## Godot alpha 0.23.26
+
+The Widow has new Blender-authored floor locomotion with a lower body and fanned legs, planted contacts and improved attack transitions. It opens its stance in ordinary hedge lanes and folds around real corners and obstacles; straight pursuit replans no longer pull it backwards.
+
+The Widow can sprint in short ground pursuit bursts after a moving wind-up. Difficulty adjusts sprint speed, duration and cooldown. Breaking sight, hiding, reaching safety or stunning it cancels the burst; attacks still use normal reach and swept movement.
+
+Spider wall crawling remains active. Wider clearance around props and graded leg folding reduce clipping without shrinking the model.
+
+Blackwater footsteps use preloaded PCM playback instead of starting a compressed decoder at each contact. Continuous music and objective sounds have separate mix headroom from footsteps, hunter effects and crew voices. Footstep volume and gameplay detection are unchanged.
+
+Everyone in a party should update to 0.23.26. Close the game and use Check for updates, then Update & restart in the existing launcher. Settings are preserved.
+
+[0.23.26 local validation and known audio investigation limits](docs/releases/0.23.26-validation.md).
